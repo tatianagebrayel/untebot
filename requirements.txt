@@ -1,0 +1,16 @@
+langchain==0.2.0
+langchain-openai==0.1.7
+langchain-community==0.2.0
+langgraph==0.1.1
+langchain-chroma==0.1.1
+langdetect
+langid
+chromadb
+faiss-gpu
+sentence_transformers
+torch
+unstructured
+deep-translator
+gradio
+python-dotenv
+langchain

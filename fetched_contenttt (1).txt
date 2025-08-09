@@ -1,0 +1,3343 @@
+URL: https://unte.blogs.usj.edu.lb/tutoriel-moodle/
+Title: Tutoriel moodle adressé aux enseignants
+
+
+
+English Content:
+This guide was produced to support teachers in using Moodle.USJ. It complements training but can also be useful to any teacher wishing to discover the use of this type of platform.
+Since the features of Moodle.USJ are countless, this guide is not an exhaustive one. Only the mostly used features will be discussed. Click on any icon you want in the menu bar in order to access the corresponding tutorial.
+MANAGING YOUR CLASS
+Teachers have the right do manage their own courses the way they desire. Teachers can modify the enrolment key, enroll students, reset their courses, uploaded resources, etc.
+Enrolment Key
+Enroll students
+Reset courses
+Visbilities of activities and resources
+ACTIVITIES
+An activity is a general name that regroup a set of functions inside a Moodle Course. Usually, an activity is something that students use to interact with each others and/or with the teacher. Below is a list of different activities:
+Assignment
+Turnitin
+Quiz
+Feedback
+Group Choice
+Forum
+If you would like to benefit from a support of adaptation/creation of your educational resources in the scenario of your Moodle space, do not hesitate to contact us via sending us an email on the following address
+unte@usj.edu.lb
+or calling us on 01421000 ext. 5923 – 5924.
+
+French Content:
+Ce guide a été réalisé afin d’accompagner les enseignants dans l’utilisation de Moodle.USJ. Il vient en complément de formation mais peut aussi être utile à tout enseignant désireux de découvrir l’utilisation de ce type de plate-forme.
+Les fonctionnalités de Moodle étant innombrables, ce guide ne peut prétendre à l’exhaustivité. Seules les fonctionnalités les plus utilisées seront abordées. Cliquez sur l’icône de votre choix pour accéder au tutoriel correspondant.
+GESTION DE SA CLASSE
+Chaque enseignant(e) a le droit de gérer son espace comme il/elle souhaite. L’enseignant(e) peut modifier la clef d’inscription, inscrire les étudiants, réinitialiser le cours, déposer des ressources numériques, etc.
+Clef d’inscription
+Inscription des étudiants
+Réinitialisation de son espace
+Visibilités des activités et ressources
+ACTIVITÉS
+Une activité est un nom général pour un groupe de fonctions dans un cours Moodle. Habituellement, une activité est quelque chose que l’élève fera qui interagit avec d’autres étudiants et/ou l’enseignant. Ci-dessous les différentes activités :
+Devoir
+Turnitin
+Test
+Feedback
+Choix du groupe
+Forum
+Si vous souhaitez bénéficier d’un accompagnement dans l’adaptation/création de vos ressources pédagogiques, dans la scénarisation de votre espace Moodle n’hésitez pas à nous envoyer un courriel électronique à l’adresse suivante
+unte@usj.edu.lb
+ou n’hésitez pas à nous contacter au 01421000 ext. 5923 – 5924
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/gestion-son-espace-ouverture-de-cours/
+Title: Moodle | gestion de son espace | ouverture de cours
+
+
+
+English Content:
+The New Educational Technologies Unit (UNTE) provides the management of courses on the digital learning environment Moodle.USJ
+The request to open a course on Moodle.USJ is done by filling out
+le formulaire suivant
+and clicking on SEND.
+The UNTE will create immediately the course from the information provided.
+A confirmation will be sent to you by an email.
+Before sending your request to open a course, check with the Relais TICE of your institution if the administration has not already requested a bulk course creation of all its courses.
+
+French Content:
+L’unité des nouvelles technologies éducatives assure la gestion des espaces de cours sur l’Environnement numérique d’enseignement MOODLE.USJ
+La demande d’ouverture d’espace de cours sur MOODLE.USJ se fait en remplissant
+le formulaire suivant
+et en cliquant sur ENVOYER.
+L’UNTE crée immédiatement l’espace de cours à partir des informations fournies ci-dessous.
+Une confirmation par mail vous sera également envoyée.
+Avant d’envoyer votre demande d’ouverture d’espace de cours, assurez-vous auprès du Relais TICE de votre institution si l’administration n’a pas déjà demandé la création massive des espaces Moodle pour tous les UE.
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/gestion-son-espace-clef-dinscription/
+Title: Moodle | gestion de son espace | modification de la clef d’inscription
+
+
+
+English Content:
+Access your course by clicking on the label “
+My courses
+” in the block “
+Navigation
+” and then by clicking on your course.
+In the block “
+Course administration
+” to the left, click on “
+Users-> Enrolment methods->self-enrolment (student)
+”
+A new page web will appear:
+To turn the registration key visible, click on the “
+eye
+” symbol
+To modify the registration key, click on the “
+pencil
+” symbol,,
+After modifying it, do not forget to click on the “
+save changes
+” button at the bottom of the page.
+
+French Content:
+Consultez votre cours en cliquant sur l’étiquette “
+Mes cours
+” dans le bloc “
+Navigation
+” puis sélectionnez votre cours.
+Dans le bloc “
+Administration du cours
+” à gauche, cliquez sur “
+Utilisateurs → Méthodes d’inscription → Auto-Inscription (Student)
+“
+Une nouvelle page web va s’afficher:
+Pour rendre la clef d’inscription visible, cliquez sur l’icône “
+loupe
+“
+Pour modifier la clef d’inscription cliquez sur l’icône “
+crayon
+“,
+Suite à votre modification, n’oubliez pas de cliquer sur le bouton “
+Enregistrer
+” en bas de la page.
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/gestion-son-espace-inscription-etudiants/
+Title: Moodle | gestion de son espace | inscription des étudiants
+
+
+
+English Content:
+This tutorial will allow you to:
+Students’ manual enrolment
+Students’ bulk enrolment
+A. MANUAL ENROLMENTS
+Access your course by clicking on “
+My courses
+” label in the “
+Navigation
+” block then select your course
+In the “
+Course administration
+” block , click on “
+users → Enrolled users
+”
+Click on the “Connection” button. “
+Inscrire des utilisateurs
+“
+Enter the student’s email or name
+When their full name and email are displayed, click on their name
+Don’t forget to click on the “
+Enroll users
+” button
+B. BULK ENROLMENTS (VIA E-MAIL USJ)
+Access your course by clicking on “
+My courses
+” label in the “
+Navigation
+” block then select your course
+In the “
+Course administration
+” block , click on “
+users → Bulk enrolments
+”
+In the window “bulk enrolments” follow the steps below:
+Drag & drop the file that contains the list of code LDAP of your students to the file area.
+Choose «
+Student
+» pour le champ «
+Inscrire comme
+»
+Choose «
+Addresse de courriel
+» pour le champ «
+la première colonne contient
+»
+Do not forget to click on “
+Enroll them to my course
+” button.
+Remarks:
+The file containing the list of your students should be:
+In the TXT format
+Containing a single column that contain the list of your students’ email USJ.
+The header of this column must be named “
+email
+”
+To obtain this file:
+Contact the secretariat of your institution and ask them to send you a file containing the list of your students’ email USJ enrolled in your course.
+Copy/paste the list of email USJ into a Txt Document that you’ve created on your desktop
+Save the TXT document
+
+French Content:
+Ce tutoriel va vous permettre de :
+Inscrire manuellement les étudiants
+Inscrire massivement les étudiants
+A. INSCRIPTION MANUELLE
+Consultez votre cours en cliquant sur l’étiquette “
+Mes cours
+” dans le bloc “
+Navigation
+” puis sélectionnez votre cours
+Dans le bloc “
+Administration du cours
+“, cliquez sur «
+utilisateurs → Utilisateur Inscrits
+»
+Cliquez sur le bouton “
+Inscrire des utilisateurs
+“
+Saisissez l’email de l’étudiante ou son nom
+Lorsque son nom complet et son mail sont affichés, cliquez sur son nom
+N’oubliez pas de cliquer sur le bouton “
+Inscrire des utilisateurs
+“
+B. INSCRIPTION MASSIVE (PAR MAIL USJ)
+Consultez votre cours en cliquant sur l’étiquette “
+Mes cours
+” dans le bloc “
+Navigation
+” puis sélectionnez votre cours
+Dans le bloc “
+Administration du cours
+“, cliquez sur «
+utilisateurs → Inscriptions massives
+»
+Dans la fenêtre Inscription massive, suivez les étapes ci-dessous :
+Faites un drag & drop du fichier qui contient la liste des mails USJ vers la zone de fichier,
+Choisissez «
+Student
+» pour le champ «
+Inscrire comme
+»
+Choisissez «
+Addresse de courriel
+» pour le champ «
+la première colonne contient
+»
+Cliquez sur le bouton «
+Les inscrire à mon cours
+»
+Remarques:
+Le fichier contenant la liste des étudiants à inscrire dans le cours doit être :
+Au format TXT
+Comportant une seule colonne contenant les mails USJ des étudiants
+L’entête de cette colonne doit être nommée «
+mail
+»
+Pour obtenir ce fichier :
+Adressez-vous au secrétariat de votre institution en leur demandant de vous envoyer la liste des mails USJ des étudiants inscrits à votre cours
+Copiez/collez la liste des mails USJ dans un fichier TXT qui vous avez créé sur votre desktop
+Sauvegardez ce fichier TXT
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/gestion-son-espace-reinitialisation-cours/
+Title: Moodle | gestion de son espace | réinitialisation du cours
+
+
+
+English Content:
+“Resetting a course allows you to clear a course of user data, while retaining activities and other settings. Be aware that once your choices have been validated, the data you have selected to reset will be permanently deleted from the course with no way to restore it! It is therefore necessary to provide prior backup.” ~
+Reference Moodle docs – reset
+Access your course by clicking on “
+My courses
+” label in the “
+Navigation
+” block then select your course
+In the block “
+Course administration
+” to the left, click on “
+Reset
+”
+To unsubscribe former students from your course, click on the “
+Roles
+” section and then select “
+Student
+” in “
+Unenroll users
+”
+To delete all submissions, click on the “
+Assignments
+” section and then check “
+Delete all submissions
+”
+To delete all quiz attempts, click on the “
+Quizzes
+” section and then check “
+Delete all quiz attempts
+”
+Do not forget to click on “
+Reset course
+” button.
+
+French Content:
+“Réinitialiser un cours permet de vider un cours des données utilisateur, tout en conservant les activités et autres paramètres. Soyez conscient qu’une fois vos choix validés, les données que vous aurez sélectionnées à réinitialiser seront supprimées définitivement du cours sans aucun moyen de les restaurer ! Il faut donc prévoir une sauvegarde préalable.” ~
+Référence Moodle docs – réinitialisation
+Consultez votre cours en cliquant sur l’étiquette “
+Mes cours
+” dans le bloc “
+Navigation
+” puis sélectionnez votre cours
+Dans le bloc “
+Administration du cours
+“, cliquez sur le bouton “
+Réinitialiser
+“
+Pour désinscrire les anciens étudiants de votre cours, cliquez sur la section “
+Rôles
+” et puis sélectionnez “
+Student
+” dans “
+Désinscrire les utilisateurs
+“
+Pour supprimer tous les travaux remis, cliquez sur la section “
+Devoirs
+” et puis cochez “
+Supprimer tous les travaux remis
+“
+Pour supprimer tous les tentatives des tests, cliquez sur la section “
+Tests
+” et puis cochez “
+Supprimer tous les tentatives des tests
+“
+N’oubliez pas de cliquer sur le bouton “
+Réinitialiser le cours
+” en bas de la page.
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/gestion-son-espace-depot-des-ressources-numeriques/
+Title: Moodle | gestion de son espace | dépôt des ressources
+
+
+
+English Content:
+This tutorial will allow you to:
+Insert files
+Insert URLs (web link)
+Insert labels (Embed code)
+First of all you need:
+Access your course by clicking on the label “
+My Courses
+” in the block “
+Navigation
+” and then by clicking on your course.
+Activate the editing mode by clicking on “
+Turn editing on
+” button
+A. INSERTING FILES
+To upload files, simple drag & drop the file onto the file area
+B. INSERTION DES URLS (LIEN WEB)
+To insert a URL,
+Click on “
+Add an Activity or Resource
+”
+Choose “
+URL
+” and click on “
+Add
+” button
+Give a title to the URL address and copy paste the complete link in the field “
+external URL
+“. Don’t forget to click on the “
+Save and return to course
+” button.
+C. INSERTING LABELS (EMBED CODES)
+To insert a label:
+Click on “
+Add an Activity or Resource
+”
+Choose “
+Label
+” and click on “
+Add
+” button
+Click on “
+Toggle toolbar -> edit HTML sources
+” icons; paste the embed code and then click on “
+update
+” button. Do not forget to click on “
+Save and return to course
+” button
+
+French Content:
+Ce tutoriel va vous permettre de :
+Insérer des fichiers numériques
+Insérer des URLs (lien web)
+Insérer des étiquettes (code Embed)
+Tout d’abord il faut :
+Consulter votre cours en cliquant sur l’étiquette “
+Mes cours
+” dans le bloc “
+Navigation
+” puis sélectionnez votre cours
+Activer le mode édition en cliquant sur le bouton “
+Activer le mode édition
+“
+A. INSERTION DES FICHIERS NUMÉRIQUES
+Pour insérer des fichiers numériques, faites un drag & drop de vos documents numériques vers la zone de section.
+B. INSERTION DES URLS (LIEN WEB)
+Pour insérer une ressource URL (lien web),
+Cliquez sur “
+Ajouter une activité ou une ressource
+“
+Choisissez “
+URL
+” et cliquez sur le bouton “
+Ajouter
+“
+Donnez un titre à l’adresse URL et copiez collez le lien complet dans le champ “
+URL externe
+“. N’oubliez pas de cliquer sur le bouton “
+Enregistrer et revenir au cours
+“.
+C. INSERTION DES ÉTIQUETTES
+Pour insérer une resource Etiquette (Code Embed):
+Cliquez sur “
+Ajouter une activité ou une ressource
+“
+Choisissez “
+Étiquette
+” et cliquez sur le bouton “
+Ajouter
+“
+Cliquez sur le bouton “
+Développer/réduire la barre d’outil -> Editer le code cours HTML
+“, coller le code Embed et puis cliquez sur le bouton “
+Mettre à jour
+“. N’oubliez pas de cliquer sur le bouton “
+Enregistrer et revenir au cours
+“.
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/gestion-son-espace-cachez-affichez-des-activites-ressources-sections/
+Title: Moodle | gestion de son espace | visibilité des contenus
+
+
+
+English Content:
+It is possible to hide certain activities/resources (or even complete sections) from students.
+To hide an activity/resource, click on “
+Edit
+” to the right of the activity/resource and then select “
+Hide
+“
+To hide a complete section, click on “
+Edit
+” to the right of the section and then select “
+Hide topic
+“
+Note: Hidden activities / resources (or sections) are displayed in gray and students cannot see them.
+It is possible to show the hidden activities/resources (and even sections) to students.
+To show an activity/resource, click on “
+Edit
+” to the right of the activity/resource and then select “
+Show
+“
+To hide a complete section, click on “
+Edit
+” to the right of the section and then select “
+Show topic
+“
+
+French Content:
+Il est possible de cacher certaines activités/ressources (ou bien des sections complètes) aux étudiants.
+Pour cacher une activité/ressource, cliquez sur «
+Modifier
+» à droite de l’activité/ressource et puis sélectionnez «
+Cacher
+»
+Pour cacher une section complète, cliquez sur «
+Modifier
+» à droite de la section et puis sélectionnez «
+Cacher la section
+»
+Remarque: Les activités/ressources (ou les sections) cachées sont affichées en gris et les étudiants ne peuvent pas les voir.
+Il est possible d’afficher les ressources/activités cachées (ou sections cachées) aux étudiants.
+Pour afficher une activité/ressource, cliquez sur «
+Modifier
+» à droite de l’activité/ressource et puis sélectionnez «
+Afficher
+»
+Pour afficher une section complète, cliquez sur «
+Modifier
+» à droite de la section et puis sélectionnez «
+Afficher la section
+»
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activite-devoir/
+Title: Moodle | activité ‘devoir’
+
+
+
+English Content:
+A. CREATION OF THE ASSIGNMENT ACTIVITY IN YOUR SPACE
+Access your course by clicking on “
+My courses
+” label in the “
+Navigation
+” block then select your course
+Activate the editing mode by clicking on the “
+Turn Editing On
+“
+Click on “
+Add an Activity or Resource
+”
+Choose “
+Assignment
+” and click on “
+Add
+” button
+B. SETTING UP THE ASSIGNMENT ACTIVITY
+To configure the Assignment activity, follow the steps below:
+GENERAL
+Enter a title
+Enter a specific description of the assignment, which should include specific instructions for students about the form of rendering, grading criteria, etc.
+AVAILABLILITY
+Activate the “
+Allow submissions from
+” by checking the “Activate” box and then enter this date. Students will not be able to submit their homework before this date.
+Activate the “
+Due date
+” by checking the “Activate” box and then enter this date. Homework submitted after this date is marked late (in red). To prevent the submission of work after this date, you must activate the deadline below.
+Activate the “
+cut-off date
+” by checking the “Activate” box and then enter this date. Homework submitted after this date is marked late (in red). The assignment will not allow any postponement of work after this time.
+SUBMISSION TYPES
+Choose the
+type of submission
+Choose the
+maximum number of uploaded files to send
+if you’ve chosen “File submissions”
+Choose the
+Word limit
+to write if you have chosen
+Online text.
+FEEDBACK TYPES
+These settings control the feedback the teacher can give to students.
+Feedback comments
+: to give feedback in the form of comments for each work submitted
+Feedback files
+: to drop files as feedback during the homework evaluation.
+Do not forget to click the “Save and display” button
+C. UPLOADING MULTIPLE FEEDBACK FILES
+To download all files in a zip folder, you should follow the following procedure:
+Consult the activity assignment and click on “
+view all submissions
+”
+Remark: In the activity settings, in Feedback files, verify that you have checked “Feedback files”.
+In Options, verify that you have checked «
+Download submissions in folders
+»
+Dans
+Action d’évaluation
+, cliquez sur «
+Télécharger tous les travaux remis
+»
+A zipped folder will be downloaded on your computer. This folder contains many sub-folders – one per student – each containing the student’s file.
+Remark: pay attention not to modify the title of the sub-folders. This is what allow Moodle to automatically distribute the correct file to the correct student after correction.
+Unzip the folder and correct the files systematically in each sub-folder and save them. You can also drag & drop additional feedback file in the sub-folder of each student.
+To upload the corrected files as well as all other feedback files (correction, grid, etc.) in a zipped folder, you should follow the following procedure:
+Once the correction is finished, in addition to the corrected files you can also add feedback files inside the sub-folder of each student. Zip again the folder.
+Consult again the activity assignment and click on “
+view all submissions
+”
+In
+Grading action
+, choose the option “
+upload multiple feedback files in a zip
+”.
+Drag and drop the zipped folder, then click on “
+Import feedback file(s)
+”.
+The files are imported. Click on “
+confirm
+”. Moodle will specify the number of added files. Click on “
+continue
+”.
+In the column Feedback Files, the files will be distributed correctly
+
+French Content:
+A. CRÉATION DE L’ACTIVITÉ DEVOIR DANS VOTRE ESPACE
+Consultez votre cours en cliquant sur l’étiquette “
+Mes cours
+” dans le bloc “
+Navigation
+” puis sélectionnez votre cours
+Activez le mode édition en cliquant sur le bouton “
+Activer le mode édition
+“
+Cliquez sur “
+Ajouter une activité ou une ressource
+“
+Choisissez “
+Devoir
+” et cliquez sur le bouton “
+Ajouter
+“
+B. PARAMÉTRAGE DE L’ACTIVITÉ DEVOIR
+Pour paramétrer l’activité Devoir, suivez les étapes ci-dessous
+GÉNÉRAUX
+Saisissez un titre à votre devoir
+Saisissez une description à votre du devoir, qui devrait inclure des instructions précises pour les étudiants au sujet de la forme de rendu, des critères de notation, etc.
+DISPONIBILITÉ
+Activez la
+remise de travaux dès
+une date en cochant la case “Activer” et puis saisissez cette date. Les étudiants ne pourront pas remettre leurs devoirs avant cette date
+Activez le
+délai de remise
+de travaux jusqu’à une date en cochant la case “Activer” et puis saisissez cette date. Les devoirs remis après cette date sont marqués en retard (en rouge). Pour empêcher la remise de travaux après cette date, vous devez activer la date limite ci-dessous.
+Activez la
+date limite
+de remise de travaux jusqu’à une date en cochant la case “Activer” et puis saisissez cette date. Les devoirs remis après cette date sont marqués en retard (en rouge). Le devoir n’autorisera aucune remise de travail après ce délai.
+TYPE DE REMISE
+Saisissez le
+type de remise
+Choisissez le
+nombre maximum de fichiers à remettre
+si vous choisissez les remises de fichiers
+Choisissez le
+nombre maximal
+de mots à remettre si vous choisissez les remises des
+textes en ligne
+.
+TYPE DE FEEDBACK
+Ces paramètres contrôlent les rétroactions que l’enseignant pourra retourner aux étudiants.
+Feedback par commentaires
+: pour donner un feedback sous la forme de commentaires pour chaque travail remis
+Fichiers de feedback
+: pour déposer des fichiers comme feedback lors de l’évaluation des devoirs
+N’oubliez pas de cliquer sur “Enregistrer et revenir au cours”
+C. DISTRIBUTION AUTOMATIQUE DES FICHIERS DE FEEDBACK
+Pour télécharger tous les travaux à corriger dans un dossier zippé, il suffit de suivre la procédure suivante :
+Consultez l’activité Devoir et cliquer sur «
+Consulter tous les travaux remis
+»
+Remarque: Dans les paramètres de l’activité, dans Types de feedback, vérifiez que vous avez bien coché la case Fichiers de feedback.
+Dans Options, vérifiez que vous avez bien coché la case «
+Télécharger les travaux remis dans des dossiers
+»
+Dans
+Action d’évaluation
+, cliquez sur «
+Télécharger tous les travaux remis
+»
+Un dossier compressé (Zipped Folder) se téléchargera automatiquement sur l’ordinateur. Ce dossier contient plusieurs sous-dossiers – un par étudiant – chacun contenant le travail de l’étudiant.
+Remarque : Attention de ne pas modifier le nom des dossiers. C’est ce qui permettra à Moodle de distribuer automatiquement le bon fichier au bon étudiant après la correction.
+Décompressez (Unzip) le dossier et corrigez les devoirs systématiquement dans chaque sous-dossier et enregistrez-les. Vous pouvez aussi glisser des fichiers de feedback supplémentaires dans les sous-dossiers des étudiants.
+Pour remettre les travaux corrigés ainsi que tout autre fichier de feedback (corrigé, grille, etc.) dans un dossier compressé (zipped folder), il suffit de suivre la procédure suivante :
+Une fois les corrections terminées, vous pouvez ajouter en plus du document corrigé des fichiers de feedback dans le sous-dossier de chaque étudiant. Compressez (Zip) de nouveau le dossier.
+Accédez à l’activité Devoir de nouveau et cliquez sur «
+Consulter tous les travaux remis
+»
+Dans le menu
+Action d’évaluation
+, choisissez cette fois-ci l’option «
+Déposer plusieurs fichiers de feedback dans un ZIP
+».
+Glissez et déposez le fichier ZIP, puis cliquez sur «
+Importer des fichiers de feedback
+».
+Les fichiers sont importés. Cliquez sur «
+Confirmer
+». Moodle précisera le nombre de fichiers ajoutés. Cliquez sur «
+Continuer
+».
+Dans la colonne Fichiers de feedback, les fichiers seront ainsi distribués correctement en un clic aux étudiants
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activite-turnitin/
+Title: Moodle | activité ‘turnitin’
+
+
+
+English Content:
+Remark:
+From September 26th 2023, students must be enrolled in a class before submitting to an assignment on their behalf
+This tutorial will help you to:
+Create an activity Turnitin
+Setting up the Turnitin activity
+View delivered student’s work
+View AI written detection report (only for english written text)
+(*)
+View Data Analytics
+(*)
+Download all students’ work
+Permanently delete a submitted work
+(*)
+View ancient students’ work
+Upload a work as an instructor
+(*) : New feature
+A. CREATE ACTIVITY TURNITIN
+Access your course by clicking on “
+My courses
+” label in the “
+Navigation
+” block then select your course
+Activate the editing mode by clicking on the “
+Turn Editing On
+“
+Click on “
+Add an Activity or Resource
+”
+Choose
+“Turnitin Assignment”
+B. SETTING UP THE TURNITIN ACTIVITY
+Note
+: It is important to understand that the Turnitin Activity setup can take 2 forms, either as a “
+Testing
+” or as a “
+Final Repository
+” of completed work. However, if the teacher chooses the second option, any submission will be saved in the Turnitin database and a modified version uploaded to Turnitin will show a result of 100% similarity with the previous versions stored on the database. It is recommended to opt for the first option “Testing” if it is not the final submission.
+To set up the Turnitin Activity, follow the below steps;
+Click on “
+Select content
+”
+Enter a title
+Enter a description
+Select start and due dates
+Click on “
+Optional Settings
+”
+In “
+Submission Settings
+” there are 2 choices:
+Choose “
+Do not store the submitted papers
+”, if you only want to test student assignments (i.e. create a similarity report without saving them as final versions in the Turnitin database).
+Choose “
+Standard paper repository
+”, if these are the final submissions of the assignments and you wish to save them in the Turnitin database.
+Click on “
+Submit
+” at the bottom of the page to close this window and then click “
+Save and Display
+”.
+C. VIEW DELIVERED STUDENT’S WORK
+To view and download the similarity report of your students’ work, follow the steps below:
+Click on the Turnitin Activity.
+Once the table is displayed, click on the rectangle to view the similarity report for each student’s work.
+The similarity report will display the following information: In the right column, the list of sources detected by the system, and the percentage of similarity identified.
+To download the report for correction, click on the “
+Download
+” icon and then select “
+Digital Receipt
+” to save it.
+If you wish to keep a copy of the report returned by Turnitin, you can download it by clicking on the “
+Download
+” icon at the bottom left of the page and choosing the “
+Current View
+” option.
+Note:
+depending on the size of students’ work, Turnitin may take some times to display the similarity report: A “
+Pending
+” message will appear in the similarity column
+D. VIEW AI WRITTEN DETECTION REPORT (
+Only for english written text)
+To view the AI writing detection report of a student, follow these steps:
+Click on the Turnitin Activity.
+Once the table is displayed, click on the rectangle to view the similarity report for each student’s work.
+Click on the “AI” Icon.
+The AI write detection report will display, indicating the percentage of text generated by an AI.
+Note:
+Turnitin AI writing detector is designed to help educators identify text that might be prepared by a generative AI tool. The AI writing detector may not always be accurate (it may misidentify both human and AI-generated text) so it should not be used as the sole basis for adverse actions against a student. It takes further scrutiny and human judgment in conjunction with an organization’s application of its specific academic policies to determine whether any academic misconduct has occurred.
+E. VIEWING DATA ANALYTICS
+To view Turnitin data analytics, follow the steps below:
+Click on the Turnitin Activity.
+Once the table is displayed, click the “
+Analytics
+” tab
+Submissions Timeline:
+This option provides a visual representation of submissions, helping you understand when students are engaging. It’s particularly useful to allow students to work on their assignments to ensure their engagement over time.
+Similarity Score:
+This option provides an overview of all students’ similarity score, offering additional context when grouped with other students in the same class. The higher the bar, the more bids within that range.
+Average Source Variety:
+This information can be used to ensure that students use a wide variety of sources in their articles. For example, if one article has a similarity score of 54% for Internet sources and another returns 76%, the average source variety for the assignment would be 65%.
+Submissions:
+Number of Submissions:
+The total number of submissions made to the class. Any blank area represents students who have not yet submitted their assignments. If the numbers seem low, this is the perfect opportunity to remind students during school hours of the assignment’s due date.
+How Many Students Have Resubmitted?
+This shows students who submitted at least once, and how many submitted multiple times.
+You can also export the complete data by clicking on the “
+Export All Data
+” button
+»
+F. DOWNLOAD ALL STUDENTS’ WORK
+In order to download all students’ work, follow the steps below
+Click on the Turnitin Activity.
+Select the student by checking the checkbox
+Click on “
+Download All
+” and choose “
+Original Files
+” or “
+Standard PDF
+”.
+G. PERMANENTLY DELETE A SUBMITTED WORK
+To permanently delete a submitted job, follow the steps below
+Click on the Turnitin Activity.
+Once the table is displayed, click
+“Options”
+tab next to the student’s name.
+Choose «
+Request permanent deletion
+».
+If the option «
+Do not store the submitted papers
+» is selected in the settings of the activity, the following message will appear «
+The paper you are requesting for deletion has not been submitted to the repository. Choose the “Remove From Inbox” option to delete the paper from your view.
+.
+If the option “
+Standard paper repository
+” is selected in the settings of the activity, click «
+Continue
+»
+Select the reason for deletion and then click on “
+Continue
+“
+Type “
+DELETE
+” to continue and then click on “
+Confirm
+“
+You will notice that a new icon appeared, that indicate that “
+A paper deletion request has been sent to your Turnitin administrator
+“. This deletion request will be executed in 24 hours.
+H. VIEW ANCIENT STUDENTS’ WORK
+Si vous avez déjà un compte sur Turnitin, passez à
+l’étape 8
+.
+If this is your first time visiting the official Turnitin website, follow the steps below
+Visit
+https://www.turnitin.com/password_reset1.asp
+Enter your «
+Email address
+» and «
+Your last name
+», then click on «
+Next
+»
+Click on «
+Forgot the Answer?
+»
+After that, Turnitin will say that a link has been sent to your email address to reset your password and that you have 24 hours to change your password.
+Consult your inbox. You will receive the following message:
+Once you click on the link, a new window will open. Type your new password and then click on “Next”
+A new message will appear saying: Thank you! Your password has been successfully reset. Please note your password for future use.
+Visit
+http://www.turnitin.com/
+and click on «
+login
+»
+Insert your credentials and click on «
+Login in
+»
+Click on «
+Instructor
+» -> «
+All classes
+» and then click on the corresponded class.
+Among the list of activity, click on “view” to consult the submitted work.
+I. Upload a work as an instructor
+To submit a work as an instructor, follow the steps below:
+Visit and enroll in the space
+UNTE – Moodle
+. Note: the enrollment key is in the description of this space on Moodle.
+Click on the activity “Turnitin”
+Upload the work.
+
+French Content:
+Remarque :
+À partir du 26 septembre 2023, les étudiants doivent être inscrits dans un cours avant de soumettre un devoir en leur nom.
+Ce tutoriel va vous aider comment:
+Créer une activité Turnitin dans votre space
+Paramètrer l’activité Turnitin
+Consulter les rapports de similitudes
+Consulter les rapports de détection d’écriture IA (Uniquement pour un texte écrit en anglais)
+(*)
+Consulter l’analyse des données
+(*)
+Télécharger tous les travaux remis
+Supprimer définitivement un travail remis
+(*)
+Consulter les anciens travaux remis
+Déposer un travail en tant qu’enseignant
+(*) : Nouvelle fonctionnalité
+A. CRÉATION DE L’ACTIVITÉ TURNITIN DANS VOTRE ESPACE
+Consultez votre cours en cliquant sur l’étiquette “
+Mes cours
+” dans le bloc “
+Navigation
+” puis sélectionnez votre cours
+Activez le mode édition en cliquant sur le bouton “
+Activer le mode édition
+“
+Cliquez sur “
+Ajouter une activité ou une ressource
+“
+Choisissez «
+2.Devoir Turnitin (New)
+»
+B. PARAMÉTRAGE DE L’ACTIVITÉ TURNITIN
+Remarque :
+Il est important de noter que le paramétrage de l’activité Turnitin prend deux formes, soit «
+Testing
+» soit comme étant un «
+Dépôt final
+» du travail réalisé. Cependant si l’enseignant choisit d’opter pour la deuxième option, tout dépôt est sauvegardé dans la base de données Turnitin et une version modifiée versée sur Turnitin qui va montrer un résultat de similitude 100 % avec les versions précédentes retenues sur la base de données. C’est dans ce sens qu’il est recommandé d’opter pour la première option « Testing » s’il ne s’agit pas du dépôt final du travail.
+Pour paramétrer l’activité Turnitin, suivez les étapes ci-dessous
+Cliquez sur le bouton «
+sélectionner un contenu
+»
+Saisissez un titre
+Saisissez les consignes
+Choisissez une date de début et une date limite
+Cliquez sur «
+options
+»
+Dans «
+paramètres d’envoi
+» on a deux choix :
+Choisissez “
+Ne pas converser les travaux envoyés
+“, si vous souhaitez uniquement tester les devoirs des étudiants (i.e. avoir un rapport de similitude sans les sauvegarder comme étant des versions finales dans la base de donnée de Turnitin).
+Choisissez “
+base de donnée Standard
+“, si ce sont les
+dépôts finals
+des devoirs et vous souhaitez les sauvegarder dans la base de donnée de Turnitin.
+Cliquez sur «
+Envoyer
+»en bas de la page pour fermer cette fenêtre et puis cliquez sur «
+Enregistrer et afficher
+»
+C. CONSULTATION LES RAPPORTS DE SIMILITUDES
+Pour consulter et télécharger le rapport final de votre étudiant, suivez les étapes ci-dessous:
+Cliquez sur l’activité Turnitin créée.
+Une fois le tableau affiché, cliquez sur le rectangle pour consulter le rapport de similitude de chacun de travaux envoyés par vos étudiants.
+Le rapport de similitude se présentera comme suit : dans la colonne à droite, figurent les sources détectées par le système et le pourcentage de similitude repéré.
+En vue de télécharger le rapport à corriger, cliquez sur l’icône «
+téléchargement
+» et choisissez l’option «
+Accusé de réception
+» pour sauvegarder l’accusé de réception.
+Si vous souhaitez garder une copie du rapport affiché par Turnitin, vous pouvez le télécharger en cliquant sur l’icône «
+téléchargement
+» en bas de page à gauche et en choisissant l’option «
+vue actuelle
+».
+Remarque
+: Dépendamment de la grandeur du rapport déposé, Turnitin pourra prendre du temps pour afficher le rapport de similitude : un message « En attente » apparaitra dans la colonne Similitude
+D. CONSULTATION DES RAPPORTS DE DÉTECTION D’ÉCRITURE IA (
+Uniquement pour un texte écrit en anglais
+)
+Pour consulter le rapport de détection d’écriture IA de votre étudiant, suivez les étapes ci-dessous :
+Cliquez sur l’activité Turnitin créée.
+Une fois le tableau affiché, cliquez sur le rectangle pour consulter le rapport de similitude des travaux envoyés par vos étudiants.
+Cliquez sur l’icône « AI »
+Le rapport de détection d’écriture IA va s’afficher en indiquant le pourcentage de texte généré par un IA.
+Remarque  :
+L’évaluation effectuée, par Turnitin, de rédaction par l’IA est conçue pour aider les enseignants à identifier le texte qui pourrait être préparé par un outil d’IA générative. L’évaluation de l’écriture écrite par l’IA peut ne pas toujours être exacte (elle peut identifier à tort le texte humain et le texte généré par l’IA), elle ne doit donc pas être utilisée comme seule base pour des actions défavorables à l’encontre d’un élève. Il faut un examen plus approfondi et un jugement humain en conjonction avec l’application par une organisation de ses politiques académiques spécifiques pour déterminer si une mauvaise conduite académique s’est produite.
+E. CONSULTATION DE L’ANALYSE DES DONNÉES
+Pour consulter les analyses des données de Turnitin, suivez les étapes ci-dessous :
+Cliquez sur l’activité Turnitin créée.
+Une fois le tableau affiché, cliquez sur l’onglet «
+Analyse
+»
+Chronologie des envois :
+Cette option vous permet une représentation visuelle des envois et de comprendre à quel moment les étudiants s’engagent. C’est particulièrement utile lorsque vous permettez aux étudiants de rédiger leur travail afin que vous puissiez voir leur engagement au fil du temps.
+Score de similarité :
+Cette option fournit un aperçu du score de similarité de tous les travaux des étudiants, offrant un contexte supplémentaire lorsqu’ils sont regroupés avec d’autres étudiants de la même classe. Plus la barre est haute, plus il y a de soumissions se situant dans cette fourchette.
+Diversité de source moyenne :
+Cette information peut être utilisée pour garantir que les étudiants utilisent une grande variété de sources dans leurs articles. Par exemple, si un article a un score de similarité de 54 % en ce qui concerne les sources Internet et qu’un autre a renvoyé 76 %, la variété moyenne des sources pour le devoir serait de 65 %.
+Copies :
+Nombre d’envois :
+Le nombre total de soumissions faites à la classe. Toute zone vide représente les étudiants qui n’ont pas encore soumis leur candidature. Si les chiffres semblent faibles, c’est l’occasion idéale de rappeler pendant les heures de cours la date à laquelle le devoir doit être rendu.
+Combien d’étudiants ont renvoyé leur copie ?
+Parmi les étudiants qui ont soumis au moins une fois, combien d’entre eux ont soumis plusieurs fois.
+Vous pouvez aussi exporter les données complètes en cliquant sur le bouton «
+Exporter les données complètes
+»
+F. TÉLÉCHARGER TOUS LES TRAVAUX REMIS
+Pour télécharger tous les travaux remis, suivez les étapes ci-dessous
+Cliquez sur l’activité Turnitin créée.
+Sélectionnez tous les étudiants en cochant la case.
+Cliquez sur  «
+Tout télécharger
+» et choisissez «
+Fichiers originaux
+» ou «
+PDF standards
+»
+G. SUPPRIMER DÉFINITIVEMENT UN TRAVAIL REMIS
+Pour supprimer définitivement un travail remis, suivez les étapes ci-dessous
+Cliquez sur l’activité Turnitin créée.
+Une fois le tableau affiché, cliquez sur «
+Options
+» à côté du nom de l’étudiant.
+Choisissez «
+Demander la suppression définitive
+».
+Si l’option «
+Ne pas converser les travaux envoyés
+» dans les paramètres de l’activité est sélectionnée, un message va apparait qui dit «
+La copie dont vous demandez la suppression n’a pas été envoyé à la base de données. Sélectionnez l’option « Supprimer de la boite de réception» pour supprimer cette copie de votre affichage
+.
+Si l’option «
+Base de données standard
+» dans les paramètres de l’activité est sélectionnée, cliquez sur «
+Continuer
+»
+Choisissez le motif de cette suppression et puis cliquez sur «
+Continuer
+»
+Tapez «
+SUPPRIMER
+» pour continuer et puis cliquez sur «
+Confirmer
+»
+Vous allez remarquer d’un nouvel icone apparaitre, qui indique que «
+la demande de suppression de copie a été envoyée à votre administrateur Turnitin
+». Cette demande va être supprimer pendant 24 heures.
+H. CONSULTER LES ANCIENS TRAVAUX REMIS
+Si vous avez déjà un compte sur Turnitin, passez à
+l’étape 8
+.
+Si c’est la première fois que vous visitez le site officiel de Turnitin, suivez les étapes ci-dessous
+Allez vers le lien
+https://www.turnitin.com/password_reset1.asp
+Tapez votre adresse électronique «
+Email address
+» et votre nom «
+Your last name
+» et cliquez sur «
+Next
+»
+Cliquez sur «
+Forgot the Answer?
+»
+Après ça, Turnitin vous dit que le lien pour réinitialiser votre mot de passe est envoyé à ton adresse électronique et que vous avez 24 heures pour changer ton mot de passe
+Consultez votre adresse électronique. Vous allez recevoir le message suivant :
+Une fois cliquer sur le lien. Une nouvelle fenêtre va ouvrir. Tapez votre nouveau mot de passe dans «
+Enter password
+» et le retapez de nouveau dans «
+Confirm password
+» et cliquez sur «
+Next
+»
+Un nouveau message va afficher maintenant qui dit : Merci ! ton mot de passe est correctement réinitialisé. Veuillez noter votre mot de passe pour un usage futur.
+Allez vers le lien
+http://www.turnitin.com/
+et cliquez sur «
+login
+»
+Tapez votre adresse électronique, et le mot de passe et puis cliquez sur «
+Login in
+»
+Cliquez sur «
+Instructor
+» -> «
+All classes
+» et puis cliquez sur une des classes figurant dans la liste des classes
+Parmis la liste des activités, cliquez sur “View” pour consulter les travaux remis de l’activité convenable
+I. Déposer un travail en tant qu’enseignant
+Pour déposer un travail en tant qu’enseignant, suivez les étapes ci-dessous :
+Consultez et inscrivez-vous dans l’espace intitulé
+UNTE – Moodle
+. Remarque: la clef d’inscription est dans la description de cette espace sur Moodle.
+Cliquez sur l’activité “Turnitin: Vérificateur de plagiat”
+Déposez le travail
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activite-feedback
+Title: Moodle | activité ‘feedback’
+
+
+
+English Content:
+The
+Feedback
+activity is normally used to do some kind of evaluation of the course by the students. The evaluation can be anonymous when anonymity is activated during the configuration of the Feedback activity.
+It is recommended to follow the steps below to ensure the correct approach to the implementation of the “
+Feedback
+” activity.
+First of all, you must identify the elements below of the “
+Feedback
+” activity (in a Word file).
+The title and a brief description of this activity.(i.e. pourquoi utiliser «
+Feedback
+»).
+L’intitulé et une brève description de cette activité.
+The questions of this Feedback, their types (i.e. short answer, multiple choice etc.), if they are required or not, whether they must be categorized by labels as well as the sequencing of the questions (i.e. question 1, question 2, etc.).
+Questions are displayed on a single page or not (ie the Feedback design). If not, specify the corresponding questions for each page.
+If the Feedback preserves anonymity (i.e. you cannot identify which response corresponds to which student).
+The opening and closing dates of this activity.
+Whether multiple discounts are allowed (i.e. students can answer questions multiple times) or not. If multiple discounts are allowed, then you will receive the last discount as a final response.
+Whether the analysis page is displayed or not. If the page is displayed, the results will be accessible to all participants who responded, note that the results are anonymous.
+After having identified the elements of this activity, we move on to the application. You then have to create the Feedback activity, configure it, feed it with questions and work on its design.
+Start the Feedback activity for students to answer questions. After launch, you can view student responses. At the end of the activity, you can download the answers in an Excel file.
+Remark
+: The activity can no longer be edited once a single student provides a response. It is for this and as a good practice, it is necessary to make sure that there is no modification to be made to the activity, before launching it. However, if a modification is required (for example, increasing the number of groups, modifying the maximum number of registered members in a group, etc.), in this case, all student responses must be deleted and the activity restarted.
+A. CREATING THE FEEDBACK ACTIVITY IN YOUR COURSE
+Access your course by clicking on “
+My courses
+” label in the “
+Navigation
+” block then select your course
+Activate the editing mode by clicking on the “
+Turn Editing On
+“
+Create the “
+Feedback
+” activity , by clicking on “
+Add an activity or a resource
+”
+Choose “
+Feedback
+” and click on the “
+Add
+” button.
+B. SETTINGS OF THE FEEDBACK ACTIVITY
+To configure the Feedback activity, follow the steps below :
+GENERAL
+Enter a
+name
+for your activity.
+Enter a
+description
+for your activity, which should include specific instructions for students.
+AVAILABLILITY
+This feature allows you to schedule a period of time during which students can respond to feedback.
+Activate the “
+Allow answers from
+” field by checking the “Activate” box and then enter the date of your choice. Students will not be able to respond to the Feedback before this date. If you do not activate this field, students will be able to access Feedback all the time.
+Activate the “
+Allow answers to
+” by checking the “Activate” box and then enter the date of your choice. Students will not be able to respond to the Feedback after this date. If you do not activate this field, students will be able to access Feedback all the time.
+QUESTION AND SUBMISSION SETTINGS
+Choose of the following options :
+Anonymous
+User’s name will be logged and shown with answers (in this case only the teacher can know who answered, while the students cannot know who answered even if they are given access to the results.)
+You can allow multiple submissions, but you will only see the last one.
+You can enable notification of submissions.
+You can auto number questions for the students.
+AFTER SUBMISSION
+Show analysis page: Choose “Yes” or “No”
+If you choose “
+Yes
+”, results are displayed for all participants who responded. These results are displayed as follows: each question and its various answers without indicating the name of the student even if the choice to record the name of the participant was retained.
+If you choose “
+No
+“, the results can only be seen by the teacher.
+Enter an end message. At the end of the activity, if you want students to be redirected or see a message other than the default “
+Your answers have been saved. Thank you.
+” , You can respectively put a URL in the URL to next activity field or write a text in the
+Completion message
+field.
+Add a
+Link to next activity
+: when they click on the “
+Continue
+” button and will be redirected to the determined URL.
+Click on “
+Save and display
+” button
+C. ADDING QUESTIONS
+When you have created and configured your feedback, you need to
+add questions to it
+. Click on “Edit questions” and choose a question type from the drop-down menu.
+You can choose from this type of question “
+Multiple choice, Evaluated multiple choice, short answer, long answer and numerical answer
+“
+It is also possible to choose labels to categorize the questions and page breaks if you want to move each category of questions on a single page.
+MULTIPLE CHOICE
+If this box is checked, the question becomes mandatory and feedback cannot be submitted if it remains unanswered.
+Enter your question
+Enter the label of this question
+Multiple choice type: choose one of the following options :
+Multiple choice – single answer
+Multiple choice – multiple answer
+Multiple choice – single answer allowed (drop-down menu)
+Enter the values for the multiple choice by inserting each choice on a line.
+Click on “
+Save question
+”.
+MULTIPLE CHOICE (
+RATED
+)
+If this box is checked, the question becomes mandatory and feedback cannot be submitted if it remains unanswered.
+Enter your question
+Enter the label of this question
+Multiple choice type: choose one of the following options :
+Multiple choice – single answer
+Multiple choice – single answer allowed (drop-down menu)
+Enter the values for the multiple choice by inserting each choice on a line.
+Click on “
+Save question
+”.
+SHORT TEXT ANSWER
+If this box is checked, the question becomes mandatory and feedback cannot be submitted if it remains unanswered.
+Enter your question.
+Enter the label of this question.
+Enter the width of the field.
+Enter the maximum number of characters accepted.
+Click on “
+Save question
+”.
+LONGER TEXT ANSWER
+If this box is checked, the question becomes mandatory and feedback cannot be submitted if it remains unanswered.
+Enter your question.
+Enter the label of this question.
+Enter the width of the field.
+Enter the number of lines.
+Click on “
+Save question
+”.
+NUMERIC ANSWER
+If this box is checked, the question becomes mandatory and feedback cannot be submitted if it remains unanswered.
+Enter your question.
+Enter the label of this question.
+Enter “
+Range from
+” and “
+Range to
+”.
+Click on “
+Save question
+”.
+LABEL
+Add the contents of the label.
+Click on “
+Save question
+”.
+ADD A PAGE BREAK
+All you have to do is choose “
+Add a page break
+” in the “Add a question” field.
+D. SHOW AND EXPORT RESPONSES
+To display the responses of the participants, click on “
+Show responses
+“
+To export the responses, you must specify the format of the data to be exported from the drop-down menu and then click on “
+Download
+“.
+
+French Content:
+L’activité
+Feedback
+est normalement utilisée afin de faire une sorte d’évaluation du cours par les étudiants. L’évaluation peut être anonyme quand l’anonymat est activé lors du paramétrage de l’activité Feedback.
+Il est recommandé de suivre les étapes ci-dessous pour assurer la bonne démarche de l’implémentation de l’activité «
+Feedback
+».
+Tout d’abord, il faut identifier les éléments ci-dessous de l’activité «
+Feedback
+» (dans un fichier Word)
+Le but de cette activité (i.e. pourquoi utiliser «
+Feedback
+»).
+L’intitulé et une brève description de cette activité.
+Les questions de ce Feedback, leurs types (i.e. réponse courte, choix multiple etc.), s’ils sont requis ou pas, s’il faut les catégoriser par des étiquettes ainsi que le séquencement des questions (i.e. question 1, question 2, etc.).
+Les questions s’affichent sur une seule page ou pas (i.e. le design de Feedback). Si non, précisez pour chaque page les questions correspondantes.
+Si le Feedback préserve l’anonymat (i.e. vous ne pouvez pas identifier quelle réponse correspond à quel étudiant).
+Les dates d’ouverture et de fermeture de cette activité.
+Si plusieurs remises sont permises (i.e. les étudiants peuvent répondre aux questions plusieurs fois) ou pas. Si plusieurs remises sont permises, alors vous allez recevoir la dernière remise comme réponse finale.
+Si la page d’analyse s’affiche ou pas. Si la page s’affiche, les résultats seront accessibles à tous les participants qui ont répondu, à noter que les résultats sont anonymes.
+Après avoir identifié les éléments de cette activité, on passe à l’application. Il faut alors créer l’activité Feedback, la paramétrer, l’alimenter par des questions et travailler sur son design
+Lancez l’activité Feedback pour que les étudiants puissent répondre aux questions. Après le lancement, vous pouvez consulter les réponses des étudiants. À la fin de l’activité, vous pouvez télécharger les réponses dans un fichier Excel.
+Remarque
+: L’activité ne peut plus être modifiée dès qu’un seul étudiant fournit une réponse. C’est pour cela, et comme bonne pratique, il faut s’assurer qu’il n’y aucune modification à apporter à l’activité, avant de la lancer. Cependant, si une modification s’impose (par exemple, modifier une question, ajouter une question, etc.), dans ce cas, il faut supprimer toutes les réponses des étudiants et relancer l’activité de nouveau.
+A. CRÉATION DE L’ACTIVITÉ FEEDBACK DANS VOTRE ESPACE
+Consultez votre cours en cliquant sur l’étiquette “
+Mes cours
+” dans le bloc “
+Navigation
+” puis sélectionnez votre cours
+Activez le mode édition en cliquant sur le bouton “
+Activer le mode édition
+“
+Créez l’activité “
+Feedback
+” en cliquant sur “
+Ajouter une activité ou une ressource
+“
+Choisissez “
+Feedback
+” et cliquez sur le bouton “
+Ajouter
+“
+B. PARAMÉTRAGE DE L’ACTIVITÉ FEEDBACK
+Pour paramétrer l’activité Feedback, suivez les étapes ci-dessous :
+GÉNÉRAUX
+Saisissez un
+nom
+à votre activité
+Saisissez une
+description
+à votre activité, qui devrait inclure des instructions précises pour les étudiants
+DISPONIBILITÉ
+Cette fonction vous permet de planifier une période de temps au cours de laquelle les étudiants pourront répondre au feedback.
+Activez le champ «
+Permettre les réponses dès le
+» en cochant la case “Activer” et puis saisissez la date de votre choix. Les étudiants ne pourront pas répondre au Feedback avant cette date. Si vous n’activez pas ce champ, les étudiants vont pouvoir accéder au Feedback tout le temps.
+Activez le «
+Permettre les réponses jusqu’au
+» en cochant la case “Activer” et puis saisissez la date de votre choix. Les étudiants ne pourront pas répondre au Feedback après cette date. Si vous n’activez pas ce champ, les étudiants vont pouvoir accéder au Feedback tout le temps.
+RÉGLAGE DES QUESTIONS ET DE L’ENVOI
+Saisissez l’une des options suivantes :
+Anonyme
+Le nom du participant sera enregistré et ses réponses seront affichées (dans ce cas uniquement l’enseignant peut savoir qui a répondu, tandis que les étudiants ne peuvent pas savoir qui a répondu même si on leur donne un accès aux résultats)
+Vous pouvez autoriser plusieurs remises mais vous n’allez voir que la dernière.
+Vous pouvez choisir de recevoir des notifications pour chaque remise.
+Vous pouvez choisir de numéroter les questions pour les étudiants.
+APRES L’ENVOI
+Afficher la page d’analyse : Choisissez « Oui » ou « Non »
+Si vous choisissez «
+Oui
+», les résultats s’affichent pour tous les participants qui ont répondu. Ces résultats s’affichent ainsi : chaque question et ses différentes réponses sans indiquer le nom de l’étudiant même si le choix d’enregistrer le nom du participant a été retenu.
+Si vous choisissez «
+Non
+», les résultats pourront être vus uniquement par l’enseignant.
+Saisissez un message de fin. À la fin de l’activité, si vous souhaitez que les étudiants soient redirigés ou qu’ils voient un message autre que le message par défaut «
+Vos réponses ont été enregistrées. Merci.
+», vous pouvez respectivement mettre un URL dans le champ URL vers activité suivante ou rédiger un texte dans le champ
+Message de fin
+.
+Saisissez un
+URL vers l’activité suivante
+: lorsqu’ils cliqueront sur le bouton «
+Continuer
+» et seront redirigés vers l’URL déterminée
+Cliquez sur le bouton «
+Enregistrer et afficher
+»
+C. AJOUT DES QUESTIONS
+Lorsque vous avez créé et paramétré votre feedback, vous devez y
+ajouter des questions
+. Cliquer sur « Modifier les questions » et choisissez un type de question dans le menu déroulant.
+Vous pouvez choisir parmi ce type de questions «
+Choix multiple, Choix multiple évalué, réponse courte, réponse longue et réponse numérique
+»
+C’est possible aussi de choisir des étiquettes pour catégoriser les questions et des sauts de pages si vous souhaitez déplacer chaque catégorie de questions sur une seule page.
+CHOIX MULTIPLE
+Si cette case est cochée, la question devient obligatoire et le feedback ne peut pas être soumis si elle reste sans réponse.
+Saisissez votre question
+Saisissez l’étiquette de cette question
+Type de choix multiple : choisissez une des options suivantes :
+Choix multiple – une réponse
+Choix multiple – plusieurs réponses
+Choix multiple – une seule réponse possible (menu déroulant)
+Saisissez les valeurs du choix multiple en insérant chaque choix sur une ligne.
+Cliquez sur «
+Enregistrer question
+».
+CHOIX MULTIPLE (ÉVALUÉ/
+RATING
+)
+Si cette case est cochée, la question devient obligatoire et le feedback ne peut pas être soumis si elle reste sans réponse.
+Saisissez votre question
+Saisissez l’étiquette de cette question
+Type de choix multiple : choisissez une des options suivantes :
+Choix multiple – une réponse
+Choix multiple – une seule réponse possible (menu déroulant)
+Saisissez les valeurs du choix multiple en insérant chaque choix sur une ligne.
+Cliquez sur «
+Enregistrer question
+».
+RÉPONSE COURTE
+Si cette case est cochée, la question devient obligatoire et le feedback ne peut pas être soumis si elle reste sans réponse.
+Saisissez votre question.
+Saisissez l’étiquette de cette question.
+Saisissez la largeur (
+width
+) du champ.
+Saisissez le nombre maximum de caractères acceptés.
+Cliquez sur «
+Enregistrer question
+».
+RÉPONSE LONGUE
+Si cette case est cochée, la question devient obligatoire et le feedback ne peut pas être soumis si elle reste sans réponse.
+Saisissez votre question.
+Saisissez l’étiquette de cette question.
+Saisissez la largeur (
+width
+) du champ.
+Saisissez le nombre de lignes.
+Cliquez sur «
+Enregistrer question
+».
+RÉPONSE NUMÉRIQUE
+Si cette case est cochée, la question devient obligatoire et le feedback ne peut pas être soumis si elle reste sans réponse.
+Saisissez votre question.
+Saisissez l’étiquette de cette question.
+Saisissez «
+l’intervalle de
+» et «
+l’intervalle jusqu’à
+».
+Cliquez sur «
+Enregistrer question
+».
+ETIQUETTE
+Saisissez le contenu de cette étiquette.
+Cliquez sur «
+Enregistrer question
+».
+SAUT DE PAGE
+Il suffit de choisir «
+Ajouter un saut de page
+» dans le champ « Ajouter une question ».
+D. AFFICHER ET EXPORTER LES RÉPONSES
+Pour afficher les réponses des participants il faut cliquer sur «
+Afficher les réponses
+»
+Pour exporter les réponses, il faut spécifier le format des données à exporter du menu déroulant et puis cliquer sur «
+Télécharger
+».
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activite-forum/
+Title: Moodle | activité ‘forum’
+
+
+
+English Content:
+A. CREATION OF FORUM ACTIVITY IN YOUR COURSE
+Access your course by clicking on “
+My courses
+” label in the “
+Navigation
+” block then select your course
+Activate the editing mode by clicking on the “
+Turn Editing On
+“
+Click on “
+Add an Activity or Resource
+”
+Choisissez “
+Forum
+” et cliquez sur le bouton “
+Ajouter
+“
+B. SETTING THE FORUM ACTIVITY
+To configure the Forum activity, follow the steps below:
+Enter a title
+Choose the type of forum. Below is the difference between the different types of forums:
+Each person posts one discussion
+: each student can start only one discussion, to which each can respond.
+Q and A Forum
+: Students must post a message before they can view and respond to questions and messages from other participants.
+Standard forum displayed in a blog-like format
+: an open forum, where anyone can start a new discussion at any time. Discussion topics are displayed on a page, with a “Discuss this topic” link to respond to them.
+Standard forum for general use
+: an open forum, where anyone can start a new discussion at any time.
+A single simple discussion
+: one discussion topic that everyone can express themselves on (cannot be used with separate groups).
+Do not forget to click the “Save and display” button
+C. ADDING A DISCUSSION
+Click on the button “Add discussion”
+Enter the title of the discussion
+Enter the chat message.
+Click on the “Send” button.
+
+French Content:
+A. CRÉATION DE L’ACTIVITÉ FORUM DANS VOTRE ESPACE
+Consultez votre cours en cliquant sur l’étiquette “
+Mes cours
+” dans le bloc “
+Navigation
+” puis sélectionnez votre cours
+Activez le mode édition en cliquant sur le bouton “
+Activer le mode édition
+“
+Cliquez sur “
+Ajouter une activité ou une ressource
+“
+Choisissez “
+Forum
+” et cliquez sur le bouton “
+Ajouter
+“
+B. PARAMÉTRAGE DE L’ACTIVITÉ FORUM
+Pour paramétrer l’activité Forum, suivez les étapes ci-dessous :
+Nommez votre forum
+Choisissez le type du forum. ci-dessous est la différence entre les différent types de forums:
+Chaque personne lance une seule discussion unique
+: chaque étudiant ne peut entamer qu’une seule discussion, à laquelle chacun peut répondre.
+Forum questions/réponses
+: les étudiants doivent poster un message avant de pouvoir consulter et répondre aux questions et messages des autres participants.
+Forum standard affiché comme un blog
+: un forum ouvert, où chacun peut entamer une nouvelle discussion à tout instant. Les sujets de discussion sont affichés sur une page, avec un lien « Discuter sur ce sujet » pour y répondre.
+Forum standard pour utilisation générale
+: un forum ouvert, où chacun peut entamer une nouvelle discussion à tout instant.
+Une seule discussion simple
+: un seul sujet de discussion sur lequel chacun peut s’exprimer (ne peut pas être utilisé avec des groupes séparés).
+N’oubliez pas de cliquer sur “Enregistrer et revenir au cours”
+C. AJOUT D’UNE DISCUSSION
+Cliquer sur le bouton “Ajouter une discussion”
+Saisissez le titre de la discussion
+Saisissez le message de la discussion.
+Cliquer sur le bouton “Envoyer”
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activite-choix-du-groupe/
+Title: Moodle | activité ‘choix du groupe’
+
+
+
+English Content:
+The
+Group Choice
+activity is used to allow students to register themselves in their own groups. Student responses
+may or may not be anonymous.
+It is recommended to follow the steps below to ensure the correct approach to the implementation of the “Group Choice” activity.
+First of all, you must identify the elements below of the “Group Choice” activity (in a Word file)
+The purpose of this activity (i.e. why use “Group Choice”).
+The title and a brief description of this activity.
+The number of groups the student can join.
+The date of opening and closing of the activity.
+Whether the results are published or not. If so, it is possible to :
+Publish the results that are visible to students as soon as they provide their answers, after the activity close date or always display the results.
+Publish the full results (ie show the names of the students and their choices) or anonymous (i.e. show only the choices without the names of the students).
+If students can change their choices.
+Whether to limit the number of registrants to each group or not (i.e. each group cannot contain more than x students)
+After having identified the elements of this activity, we move on to the application. It is then necessary, first of all, to create the groups and then to create the activity “Choice of the group” and to configure it.
+Launch of the “
+group selection
+“
+Overview of groups
+Restrict access
+Remark
+: The activity can no longer be edited once a single student provides a response. It is for this and as a good practice, it is necessary to make sure that there is no modification to be made to the activity, before launching it. However, if a modification is required (for example, increasing the number of groups, modifying the maximum number of registered members in a group, etc.), in this case, all student responses must be deleted and the activity restarted.
+A. CREATING GROUPS
+Access your course by clicking on “
+My courses
+” label in the “
+Navigation
+” block then select your course
+Click on “
+users
+” in the “
+Course administration
+” block, and then choose “
+Groups
+“
+Click on “
+Create groups automatically
+“
+Enter the naming scheme. For example,
+Group @
+or
+Group #
+Choose the option “
+Number of groups
+“
+Enter the number of groups to create.
+Choose «
+pas d’attribution
+» dans le champ répartir les membres pour ne pas inscrire des membres à ces groups (i.e. ces groups vont être vides.)
+Click on «
+Submit
+»
+B. CREATING THE GROUP CHOICE ACTIVITY IN YOUR COURSE
+Access your course by clicking on “
+My courses
+” label in the “
+Navigation
+” block then select your course
+Activate the editing mode by clicking on the “
+Turn Editing On
+“
+Create the “
+Group choice
+” activity , by clicking on “
+Add an activity or a resource
+”
+Choose “
+Group choice
+” and click on the “
+Add
+” button
+C. SETTINGS OF THE GROUP CHOICE ACTIVITY
+To configure the Group Choice activity, follow the steps below :
+GENERAL
+Enter a
+name
+for your activity.
+Enter a
+description
+for your activity, which should include specific instructions for students.
+MISCELLANEOUS SETTINGS
+Allow enrollment to multiple groups
+Publish Results: Choose of the following options :
+Do not publish results to students (In this case, the “Privacy of results” field will be disabled)
+Show results to students after they answer
+Show results to students only after the choice is closed
+Always show results to students
+Privacy of results : Choose of the following options :
+Publish anonymous results, do not show student names
+Publish full results, showing names and their choices
+Allow choice to be updated
+Limit the number of responses allowed. If enabled, enter the general limitation (i.e. the maximum number of subscribers to a group)
+Select the available groups and click on “
+Add groups
+”
+Click on the “
+Apply to all groups
+” button
+Activate the Restrict answering to this time period to choose an opening date and a closing date
+Don’t forget to click the “
+Save and Display
+” button
+D. OVERVIEW OF GROUPS
+There are three ways to use groups:
+No groups
+: There are no groups, everyone is part of a single community.
+Separate groups
+: Each group can only see its own group, with activity contributions from members of other groups invisible. Please note, this does not mean that the activity will only be accessible to members of such and such a group, but rather that since the activity is accessible to all course members regardless of their group, the members of group A will not be able to consult the contributions of the members of group B. If you want to reserve a particular activity (and specific resources) for a particular group, you have to go through the groups.
+Visible groups
+: Each user only contributes within their own group, but the contributions of members of other groups are visible in read-only mode.
+Group types can be defined at two levels:
+Activity:
+You can define the type of groups at the level of each activity that supports groups.
+In the bloc “
+(activity) administration
+” on the left, click on “
+Settings
+“, then choose group mode.
+Don’t forget to click on the “
+Save and display
+” button
+Course:
+When the group type is set at the course level, it becomes the default type for all course activities. However, if “Enforce group type” has been set, Moodle ignores the group type defined in the activities.
+In the bloc “
+course administration
+” on the left, click on “
+Settings
+“
+Choose group mode
+Choose if you want to force group mode
+Don’t forget to click the “
+Save and Display
+” button
+E. RESTRICT ACCESS
+If you place a restriction on a resource only for a group, only members of that group will be able to access the resource.
+In the bloc “
+(activity) administration
+” on the left, click on “
+Settings
+“, then choose group mode.
+Click on “
+Add restriction
+“
+Click on “
+Group
+“
+Choose the suitable group
+Click on the “
+eye
+” symbol to make the activity visible only to members of the selected group.
+Click on “
+Save and display
+” button.
+
+French Content:
+L’activité
+Choix de Groupe
+est utilisée pour permettre aux étudiants de s’inscrire eux-mêmes dans leurs propres groupes. Les réponses des étudiants
+peuvent être anonymes ou pas
+.
+Il est recommandé de suivre les étapes ci-dessous pour assurer la bonne démarche de l’implémentation de l’activité « Choix de Groupe ».
+Tout d’abord, il faut identifier les éléments ci-dessous de l’activité « Choix de Groupe » (dans un fichier Word)
+Le but de cette activité (i.e. pourquoi utiliser « Choix de Groupe »).
+L’intitulé et une brève description de cette activité.
+Le nombre de groupes auquel l’étudiant peut s’inscrire.
+La date d’ouverture et de fermeture de l’activité.
+Si les résultats sont publiés ou pas. Si oui, il est possible de :
+Publier les résultats qui sont visibles pour les étudiants dès qu’ils fournissent leurs réponses, après la date de fermeture de l’activité ou toujours afficher les résultats.
+Publier les résultats complets (i.e. montrer les noms des étudiants et leurs choix) ou anonymes (i.e. montrer uniquement les choix sans le nom des étudiants).
+Si les étudiants peuvent modifier leurs choix.
+S’il faut limiter le nombre d’inscrits à chaque groupe ou pas (i.e. chaque groupe ne peut pas contenir plus que x étudiants)
+Après avoir identifié les éléments de cette activité, on passe à l’application. Il faut alors, tout d’abord, créer les groupes et puis créer l’activité « Choix du groupe » et la paramétrer.
+Lancement de l’activité «
+Choix du groupe
+»
+Vue d’ensemble des groupes
+Restreindre l’accès
+Remarque
+: L’activité ne peut plus être modifiée dès qu’un seul étudiant fournit une réponse. C’est pour cela et comme bonne pratique, il faut s’assurer qu’il n’y aucune modification à apporter à l’activité, avant de la lancer. Cependant, si une modification s’impose (par exemple, augmenter le nombre de groupes, modifier le nombre maximal d’inscrits dans un groupe, etc.), dans ce cas, il faut supprimer toutes les réponses des étudiants et relancer l’activité.
+A. CRÉATION DES GROUPS
+Consultez votre cours en cliquant sur l’étiquette “
+Mes cours
+” dans le bloc “
+Navigation
+” puis sélectionnez votre cours
+Cliquez sur «
+utilisateurs
+» dans le bloc «
+administration du cours
+» et puis cliquez sur «
+Groupes
+»
+Cliquer sur «
+Créer des groupes automatiquement
+»
+Saisissez le schéma de dénomination. Par exemple,
+Groupe @
+ou
+Groupe #
+Choisissez l’option «
+Nombre de groupes
+»
+Saisissez le nombre de groupe à créer.
+Choisissez «
+pas d’attribution
+» dans le champ répartir les membres pour ne pas inscrire des membres à ces groups (i.e. ces groups vont être vides.)
+Cliquez sur «
+Envoyer
+»
+B. CRÉATION DE L’ACTIVITÉ CHOIX DU GROUPE DANS VOTRE ESPACE
+Consultez votre cours en cliquant sur l’étiquette “
+Mes cours
+” dans le bloc “
+Navigation
+” puis sélectionnez votre cours
+Activez le mode édition en cliquant sur le bouton “
+Activer le mode édition
+“
+Créez l’activité “
+Choix du groupe
+”, en cliquant sur “
+Ajouter une activité ou une ressource
+“
+Choisissez “
+Choix du groupe
+” et cliquez sur le bouton “
+Ajouter
+“
+C. PARAMÉTRAGE DE L’ACTIVITÉ CHOIX DU GROUPE
+Pour paramétrer l’activité Choix du groupe, suivez les étapes ci-dessous :
+GÉNÉRAUX
+Saisissez un
+nom
+à votre activité
+Saisissez une
+description
+à votre activité, qui devrait inclure des instructions précises pour les étudiants
+REGLAGES DIVERS
+Autorisez l’inscription à plusieurs groupes ou pas
+Publier les résultats : Saisissez l’une des options suivantes :
+Ne pas publier les résultats aux étudiants (Dans ce cas, le champ « Confidentialité des résultats » sera désactivé)
+Afficher les résultats aux étudiants après leur réponse
+Afficher les résultats pour les étudiants seulement après la fermeture du choix
+Toujours afficher les résultats aux étudiants
+Confidentialité des résultats : Saisissez l’une des options suivantes
+Publier les résultats anonymes, ne montre pas les noms des étudiants
+Publier les résultats complets, indique les noms et leurs choix
+Autorisez la modification du choix ou pas
+Activez la limite d’inscrit à chaque groupe ou non. Si activé il faut saisir la limite générale (i.e. le nombre maximum d’inscrit à un groupe)
+Sélectionnez les groups disponibles et cliquez sur “
+Ajouter les groupes
+“
+Cliquez sur le bouton “
+Appliquer à tous les groupes
+“
+Activez le champ restreindre la réponse à cette période pour choisir une date d’ouverture et une date de fermeture.
+N’oubliez pas de cliquer le bouton «
+Enregistrer et afficher
+»
+D. VUE D’ENSEMBLE DES GROUPES
+Il y a trois façons d’utiliser les groupes :
+Pas de groupe
+: Il n’y a pas de groupes, tout le monde fait partie d’une seule communauté.
+Groupes séparés
+: Chaque groupe ne peut voir que son propre groupe, les contributions aux activités des membres des autres groupes étant invisibles. Attention, cela ne signifie pas que l’activité ne sera accessible qu’aux membres de tel ou tel groupe, mais plutôt que l’activité étant accessible à tous les membres du cours quel que soit leur groupe les membres du groupe A ne pourront pas consulter les contributions des membres du groupe B. Si l’on souhaite réserver une activité particulière (et des ressources spécifiques) à un groupe particulier il faut passer par les groupements.
+Groupes visibles
+: Chaque utilisateur ne contribue qu’au sein de son propre groupe, mais les contributions des membres des autres groupes sont visibles en lecture seule.
+Les types de groupes peuvent être définis à deux niveaux :
+Activité :
+– On peut définir le type des groupes au niveau de chaque activité qui supporte les groupes.
+Dans le bloc “
+Administration du (l’activité)
+” à gauche, cliquez sur “
+Paramètres
+“, puis choisissez le mode de groupe
+N’oubliez pas de cliquer sur «
+Enregistrer et afficher
+»
+Cours :
+– Lorsque le type des groupes est fixé au niveau du cours, il devient le type par défaut pour toutes les activités du cours. Toutefois, si « Imposer le type des groupes » a été fixé, Moodle ignore le type des groupes défini dans les activités.
+Dans le bloc “
+Administration du cours
+” à gauche, cliquez sur “
+Paramètres
+“
+Choisissez le mode de groupe
+Choisissez si vous voulez imposer le mode de groupe
+N’oubliez pas de cliquer sur «
+Enregistrer et afficher
+»
+E. RESTREINDRE L’ACCES
+Si vous mettez en place une restriction sur une ressource uniquement pour un groupe, seuls les membres ce groupe pourront accéder à la ressource.
+Dans le bloc “
+Administration du (l’activité)
+” à gauche, cliquez sur “
+Paramètres
+“, puis choisissez le mode de groupe
+Cliquez sur “
+Ajouter une restriction
+“
+Cliquez sur “
+Groupe
+“
+Choisissez le groupe convenable
+Cliquez sur le symbole “
+œil
+” pour rendre l’activité visible uniquement aux memmbre du groupe séléctionné
+N’oubliez pas de cliquer sur «
+Enregistrer et afficher
+»
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activite-h5p/
+Title: Moodle | activité ‘h5p’
+
+
+
+English Content:
+This tutorial is to support teachers who wish to deposit video resources on the Moodle.USJ platform. This tutorial explains how to:
+Add an interactive video
+Activity settings
+Add Interactions
+A. ADD AN INTERACTIVE VIDEO
+Access your course by clicking on the “My courses” label in the “Navigation” block and then select your course
+Activate edit mode by clicking on “Activate edit mode” button
+Click on “Add an activity or a resource”
+Choose “Interactive Content” and click “Add”
+B. ACTIVITY SETTINGS
+Choose the “Interactive Video” option
+Give your video a title
+Click on the box “Add a video”
+You can upload a video (which does not exceed 16 MB) from your computer or indicate the URL of a video available on YouTube or the URL of another video source
+Click on “add activities” to add interactions (see C. Adding interactions)
+C. ADDING INTERACTIONS
+Use the toolbar above the video clip to add interactions. There are different types of choices for interactions, namely: single choice, multiple choice and true/false.
+To add a question, start the video and then pause where you want to insert the question. When you choose the question, you must:
+Specify the range of appearance of the title (2 seconds is enough) and check “pause the video”.
+Choose to display the question as “Button” if you want the user to click on it to bring up the activity, or “Frame” if you want the activity to display directly as a frame superimposed on the video.
+Enter metadata (description) in the title field to facilitate searching.
+Single-choice question
+: Allows you to create a single-choice quiz.
+A simple way to enter the question(s) and answers. Click the “Textual” option. The first answer you input must be the correct answer and the choices are always shuffled (cannot be modified).
+True/False
+: allows you to create a true/false quiz.
+You can add an image/video in the “Image or video” field.
+Enter the question in the “Question” field.
+Choose whether the answer is correct or not in the “Correct answer” field.
+Once finished, click on the “Done” button.
+Multiple-choice question
+: Allows you to create a multiple-choice quiz.
+You can add an image/video in the “Image or video” field.
+Enter the question in the “Question” field.
+Enter the proposed answer(s) in the “Options” fields and indicate the correct answer(s) or shuffle the answers. Note that you can add as many options as you want.
+Once finished, click on the “Done” button.
+
+French Content:
+Ce tutoriel est un support adressé aux enseignants qui souhaitent déposer des ressources vidéo sur la plateforme Moodle.USJ. Ce tutoriel montre comment :
+Ajout d’une vidéo interactive
+Paramétrage de l’activité
+Ajout des interactions
+A. AJOUT D’UNE VIDÉO INTERACTIVE
+Consultez votre cours en cliquant sur l’étiquette « Mes cours » dans le bloc « Navigation » puis sélectionnez votre cours
+Activez le mode édition en cliquant sur le bouton « Activer le mode édition »
+Cliquez sur « Ajouter une activité ou une ressource »
+Choisissez « Contenu interactif » et cliquez sur « Ajouter »
+B. PARAMÉTRAGE DE L’ACTIVITÉ
+Choisissez l’option « Interactive Vidéo »
+Donnez un titre à votre vidéo
+Cliquez sur la case « Ajouter une vidéo »
+Vous pouvez uploader une vidéo (qui ne dépasse pas 16 MB) depuis votre ordinateur ou indiquer l’URL d’une vidéo présente sur YouTube ou l’URL d’une autre source vidéo
+Cliquez sur « ajouter des activités » pour ajouter des interactions (cf. C. Ajout des interactions)
+C. AJOUT DES INTERACTIONS
+Utilisez la barre d’outils au-dessus du clip vidéo pour ajouter des interactions. Il existe différents types d’interactions au choix, à savoir : choix unique, choix multiple et vrai/faux.
+Pour ajouter une question, lancez la vidéo puis mettez en pause là où voulez insérer la question. Lorsque vous choisissez la question, il faut :
+Précisez la plage d’apparition du titre (2 secondes suffisent) et cochez “mettre la vidéo sur pause”.
+Choisissez l’affichage de la question sous forme « Bouton » si vous souhaitez que l’utilisateur clique dessus pour faire apparaître l’activité, ou « Cadre » si vous souhaitez que l’activité s’affiche directement sous la forme d’un cadre en surimpression sur la vidéo.
+Saisissez les métadonnées dans le champ titre pour faciliter la recherche.
+Question à choix unique
+: permet de créer des questionnaires à choix unique.
+Une façon simple pour saisir la/les question(s) et les réponses et de cliquer l’option « Textual ». Le premier choix est la réponse correcte et les choix sont toujours mélangées (ne peut pas être modifiée)
+Vrai/Faux
+: permet de créer des questionnaires vrai/faux.
+Vous pouvez ajouter une image/vidéo dans le champ « Image ou vidéo »
+Saisissez le libellé de la question dans le champ « Question »
+Choisissez si le libellé est correct ou non dans le champ « Correct answer »
+Une fois terminer, cliquez sur le bouton « Done ».
+Question à choix multiple
+: permet de créer des questionnaires à choix multiple.
+Vous pouvez ajouter une image/vidéo dans le champ « Image ou vidéo »
+Saisissez le libellé de la question dans le champ « Question »
+Saisissez le/les réponse(s) proposées dans les champs « Options » et indiquez la/les réponse(s) correcte(s) or les réponses sont mélangées (peut être modifié). Notons que vous pouvez ajouter autant d’options que vous souhaitez
+Une fois terminer, cliquez sur le bouton « Done ».
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activite-test/
+Title: Moodle | activité ‘test’
+
+
+
+English Content:
+There are two steps to creating a quiz.
+First, we add a quiz activity and select the parameters that will determine the behavior of the quiz.
+Access your course by clicking on “
+My courses
+” label in the “
+Navigation
+” block then select your course.
+Activate the editing mode by clicking on the “
+Turn Editing On
+“
+Create the activity
+Quiz
+“, by clicking on “
+Add an activity or resource
+“.
+Choose “
+Quiz
+” and click on “
+Add
+” button.
+The second step:
+Feeding the question bank.
+Setting the online quiz (face-to-face).
+Setting the online quiz (remotely).
+Adding question to quiz manually.
+Randomly add questions to quiz.
+Shuffle some sections’ questions.
+Block concurrent connections
+User overrides.
+In case of connection lost.
+Remarks:
+During an exam, you can
+add time to certain students and/or allow them to do another attempt
+.
+For a checklist of parameters for an online quiz,
+consult this webpage
+.
+REMARK: AUTOMATIC FEEDBACK
+Feedback can be automated in Moodle quizzes at the whole quiz level and at the individual question level.
+At the level of the whole quiz: when you configure the quiz activity, in the
+Global feedback
+section you can enter as much feedback by grade limits as you want by clicking on the button “Add 3 feedback fields”. For example, between 80% and 100% the overall feedback is: Excellent, between 60% and 80% the overall feedback is: Very Good, etc.
+At the level of each question: when you configure:
+A
+multiple / single choice question
+, you can enter general feedback as you can enter feedback for each choice.
+A
+True / False question
+, you can enter feedback for the “True” response and another for the “False” response”.
+A
+short answer question
+, a
+numeric question
+or a
+matching question
+, you can enter general feedback as you can enter feedback for each answer.
+A
+composition question
+, you can enter general feedback.
+
+French Content:
+La création d’un test se fait en deux étapes.
+Dans un premier temps, on ajoute une activité test et on sélectionne les paramètres qui détermineront le comportement du test.
+Consultez votre cours en cliquant sur l’étiquette “
+Mes cours
+” dans le bloc “
+Navigation
+” puis sélectionnez votre cours
+Activez le mode édition en cliquant sur le bouton “
+Activer le mode édition
+“
+Créez l’activité “
+Test
+” , en cliquant sur “
+Ajouter une activité ou une ressource
+“
+Choisissez “
+Test
+” et cliquez sur le bouton “
+Ajouter
+“
+Dans un deuxième temps:
+Alimentation de la banque de questions
+Paramètrage du test en ligne (En présentiel)
+Paramètrage du test en ligne (A distance)
+Ajout des questions au test manuellement
+Ajout des questions au test aléatoirement
+Mélanger les questions d’une ou plusieurs sections
+Block concurrent connections
+Dérogations des utilisateurs
+En cas de coupure de connexion
+Remarques:
+Durant un examen, vous pouvez
+ajouter un peu de temps pour certain étudiants ou de leur donner une deuxième tentatives
+Pour une liste de vérification des paramètres d’un test en ligne,
+consultez cette page
+REMARQUE: RÉTROACTIONS AUTOMATIQUES
+Les rétroactions peuvent être automatisées dans les quiz Moodle au niveau de tout le test et au niveau de chaque question
+Au niveau de tout le test: lorsque vous paramétrez l’activité test, dans la section
+Feedback global
+vous pouvez entrer autant de feedback par limites de notes que vous le souhaitez en cliquant sur le bouton « Ajouter 3 champs de feedback ». Par exemple, entre 80% et 100% le feedback global est: Excellent, entre 60% et 80% le feedback global est: Très Bien, etc.
+Au niveau de chaque question: lorsque vous paramétrez:
+Une
+question à choix multiple/unique
+, vous pouvez saisir un feedback général comme vous pouvez saisir un feedback pour chaque choix
+Une
+question Vrai/Faux
+, vous pouvez saisir un feedback pour la réponse “Vrai” et un autre pour la réponse “Faux”
+Une
+question à réponse courte
+, une
+question numérique
+ou une
+question d’appariement
+, vous pouvez saisir un feedback général comme vous pouvez saisir un feedback pour chaque réponse
+une
+question de composition
+, vous pouvez saisir un feedback général
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activtie-test-alimentation-banque-de-questions/
+Title: Moodle | activité ‘test’ | alimentation de la banque de questions
+
+
+
+English Content:
+The feeding of your bank of question is done by two steps:
+Creating categories/sub-categories.
+Creating questions (multiple choice, true/false) in categories/sub-categories
+Multiple choice question.
+True False question.
+Short answer question.
+Importing question from word file.
+A. CREATION AND LABELING OF CATEGORIES/SUB-CATEGORIES:
+On the home page of your course, click on “
+Question Bank
+” in the “
+Course administration
+” block and then click on “
+Categories
+”
+There is a form to create a new category.
+Select the “Parent Category” in which you want to put your new category.
+If you place the category in another category, it will therefore become a subcategory of that parent category.
+If you select “Root for…”, the category will be a parent category and not a subcategory.
+Enter the label (name) of the new category in the “
+Name
+“ field.
+Add a description in the “
+Description
+“ field.
+Click on ‘
+‘Add category’
+‘. Your new category will appear in the list of existing categories.
+B. CREATION (AND LABELING) OF A QUESTION IN A CATEGORY:
+On the home page of your course, click on “Question bank” in the “Course administration” block and then click on “Questions”.
+Choose the category you just created (this category contains no questions) and then click on the button “Create a question“
+Below is the list of questions you can create
+1. Multiple choice question.
+To create a multiple choice question, select “
+Multiple choice
+” and then click on “
+Add
+“
+Settings of Multiple choice question:
+General settings:
+Choose a question category.
+Give the question a
+descriptive name
+so that you can easily find it in the question bank. Remember to include the date, department, discipline … of the question.
+Enter the
+question text
+(instruction)
+Set the
+default mark
+(the maximum mark for this question).
+Enter a
+General Feedback
+. It will be displayed after the student has sent the response.
+In the field “One or multiple answers?”,
+there are two types of multiple choice questions: “one answer only” and “multiple answers allowed”.
+If you choose “
+one answer only
+“, the student can choose one answer by selecting the button radio next to each choice.
+If you choose “
+multiple answers allowed
+“, the student can choose one or more choices by checking the boxes next to each choice.
+Check “shuffle the answers” if you want to mix up the answer choices. By default this option is enabled
+The answers settings:
+In the “Choice 1” field, enter the first answer.
+Choose a percentage of the score for the response. This is the value of that answer as a percentage of the total question mark. You can choose negative or positive percentages. Thus, choosing a correct answer can give 50% of the points, while choosing the wrong answer can lose 10%. Please note that in a multiple answer question, the total scores must be 100%.
+If necessary, you can add a Feedback for each answer. It can be a lot of work, but it is very instructive for your students to understand why an answer is correct or incorrect, because they can then analyze their own way of thinking.
+Complete the other response options on the form. Any empty field will be ignored.
+Don’t forget to click on the “
+Save
+” button at the bottom of the screen
+2. True/False Question
+To create a True/False question, select “
+True/False
+” and then click on “
+Add
+“
+Settings of the question True/False:
+Choose a question category.
+Give the question a
+descriptive name
+so that you can easily find it in the question bank.
+Enter the
+question text
+(instruction)
+Set the
+default mark
+(the maximum mark for this question).
+Enter a
+General Feedback
+. It will be displayed after the student has sent the response.
+Select the correct answer – true or false
+Enter a Feedback for “True” Response
+Enter a Feedback for “False” Response. Don’t forget to click on the “
+Save
+” button at the bottom of the screen
+3. Short answer Question
+To create a Short Answer question, select “
+Short answer
+” and then click on
+Add
+“
+Settings of the Short answer question:
+General settings:
+Choose a question category..
+Give the question a
+descriptive name
+so that you can easily find it in the question bank. Remember to include the date, department, discipline … of the question.
+Enter the
+question text
+(instruction)
+Set the
+default mark
+(the maximum mark for this question).
+Enter a
+General Feedback
+. It will be displayed after the student has sent the response.
+Choose whether the answers are
+case sensitive
+(lowercase or uppercase). Activate the case sensitivity option if capital letters are important in the response.
+The answers settings:
+In the “Answer n” field enter the acceptable answer (s) and you can give part of the points to some answers if the answer is correct, but contains spelling errors, as you can enter a Feedback for each answer that goes s ‘display after sending the response.
+Don’t forget to click on the “
+Save
+” button at the bottom of the screen
+C. IMPORT QUESTION FROM WORD FILE
+Instead of inserting questions manually and one by one, it is possible to import a list of question from a word file, written in a certain format, in the different category of the question bank.
+It is possible to insert the following questions:
+Unique choice question (MC)
+Multiple choice question (MA)
+Short answer question (SA)
+True/False question (TF)
+Composition (ES)
+You only need to copy/paste your questions and their answers in this word file. To obtain this word file, click on
+Importation Test – English
+N.B:
+: Pay attention that the language of Moodle.USJ is the same as the downloaded file.
+Once you open the download file, you will notice that each question type is presenter in a form of a table. So, if you have 10 True/False questions, you need to copy/paste the True/False question Table 10 times. Same for other question types.
+For example, the True/False question (TF) is presented in this way:
+TF1 (True/False)
+is the question name
+Beirut is the capital of Lebanon
+is the question text
+TF
+is the type of the question
+Grade
+is the default grade of the question
+100
+is the correct answer
+Remark :
+It is also possible to insert a feedback for every answer and a general feedback too.
+
+French Content:
+L’alimentation de votre banque de questions se fait en deux étapes
+Création des catégories/sous-catégories.
+Création des questions (questions à choix multiple, Vrai/Faux) dans ces catégories/sous-catégories.
+Question à choix multiple/unique.
+Quesion Vrai Faux.
+Question Réponse courte.
+Importation des questions depuis un fichier word.
+A. CRÉATION DES CATÉGORIES/SOUS-CATÉGORIES:
+Dans la page d’accueil de votre cours, cliquez sur “
+Banque de questions
+” du bloc “
+Administration du cours
+” et puis cliquez sur “
+Catégories”
+Il y a un formulaire pour créer une nouvelle catégorie.
+Sélectionnez la “Catégorie parent” dans laquelle vous souhaitez mettre votre nouvelle catégorie.
+Si vous placez la catégorie dans une autre catégorie, elle deviendra donc une sous-catégorie de la catégorie parent.
+Si vous sélectionnez “Racine pour …”, la catégorie sera une catégorie et non une sous-catégorie.
+Saisissez le nom de la nouvelle catégorie de questions dans le champ “
+Nom
+“.
+Ajoutez une description dans le champ “
+Description
+“.
+Cliquez sur
+‘Ajouter une catégorie’
+. Votre nouvelle catégorie de questions apparaîtra dans la liste des catégories existantes.
+B. CRÉATION D’UNE QUESTION DANS UNE CATÉGORIE:
+Dans la page d’accueil de votre cours, cliquez sur “Banque de questions” du bloc “Administration du cours” et puis cliquez sur “Questions“
+Choisissez la catégorie que vous venez de créer (cette catégorie ne contient aucune question) et puis cliquez sur le bouton “Créer une question“
+Ci-dessous est la liste des questions que vous pouvez créer
+1. Question à choix multiple/unique
+Pour créer une question à choix multiple, sélectionnez l’option “
+Choix multiple
+” et puis cliquer sur le bouton “
+ajouter
+“
+Paramétrage de la question à choix multiple:
+Les paramétres généraux:
+Choisissez une catégorie de question.
+Donnez un
+nom
+descriptif à la question pour vous permettre de la retrouver facilement dans la banque de questions. Pensez à inclure dans ce nom la date, service, discipline… de la question.
+Saisissez le
+texte de la question
+(consigne)
+Définissez la
+note par défaut
+(la note maximale pour cette question).
+Saisissez un
+Feedback générale
+. Il s’affichera après l’envoi de la réponse par l’étudiant.
+Dans le champ “plusieurs réponses ou une seule”,
+il existe deux types de questions à choix multiple : à réponse simple et à réponse multiple.
+Si vous choisissez question à choix multiple
+à réponse simple
+, l’étudiant peut choisir une seule réponse en sélectionnant le
+radio button
+à côté de chaque choix.
+Si vous choisissez question à choix multiple
+à réponse multiple
+, l’étudiant peut choisir
+un ou plusieurs choix en cochant les cases à côté de chaque choix.
+Cochez “mélanger les réponses possibles?” si vous souhaitez mélanger les choix de réponse. Par défaut cette option est activée
+Les paramétres de réponses:
+Dans le champ “Réponse 1”, saisissez la première réponse.
+Choisissez un pourcentage de la note pour la réponse. Il s’agit de la valeur de cette réponse en pourcentage sur la note totale de la question. Vous pouvez choisir des pourcentages négatifs ou positifs. Ainsi, choisir une réponse correcte peut donner 50 % des points, alors que choisir une mauvaise réponse peut faire perdre 10 %. Veuillez noter que dans une question à réponses multiples, le total des notes doit être de 100 %.
+Au besoin, vous pouvez ajouter un Feedback pour chaque réponse. Cela peut représenter beaucoup de travail, mais il est très instructif pour vos étudiants de comprendre pourquoi une réponse est correcte ou incorrecte, car ils peuvent ensuite analyser leur propre façon de penser.
+Remplissez les autres choix de réponse du formulaire. Tout champ vide sera ignoré.
+N’oubliez pas de cliquer sur le bouton “
+Enregistrer”
+au bas de l’écran
+2. Question Vrai/Faux
+Pour créer une question Vrai/Faux, sélectionnez l’option “
+Vrai/Faux
+” et puis cliquer sur le bouton “
+ajouter
+“
+Paramétrage de la question Vrai/Faux:
+Choisissez une catégorie de question.
+Donnez un
+nom
+descriptif à la question pour vous permettre de la retrouver facilement dans la banque de questions
+Saisissez le
+texte de la question
+(consigne)
+Définissez la
+note par défaut
+(la note maximale pour cette question).
+Saisissez un
+Feedback général
+. Il s’affichera après l’envoi de la réponse par l’étudiant.
+Sélectionnez la bonne réponse – vrai ou faux
+Saisissez un Feedback pour Réponse “vrai”
+Saisissez un Feedback pour Réponse “faux”.N’oubliez pas de cliquer sur le bouton
+“Enregistrer”
+au bas de l’écran
+3. Question Réponse courte
+Pour créer une question à réponse courte, sélectionnez l’option “
+Réponse courte
+” et puis cliquez sur le bouton “
+ajouter
+“
+Paramétrage de la question à réponse courte:
+Les paramétres généraux:
+Choisissez une catégorie de question.
+Donnez un
+nom
+descriptif à la question pour vous permettre de la retrouver facilement dans la banque de questions. Pensez à inclure dans ce nom la date, service, discipline… de la question.
+Saisissez le
+texte de la question
+(consigne)
+Définissez la
+note par défaut
+(la note maximale pour cette question).
+Saisissez un
+Feedback général
+. Il s’affichera après l’envoi de la réponse par l’étudiant.
+Choisissez si les réponses sont
+sensibles à la casse
+(minuscule ou majuscule). Activez l’option de sensibilité à la casse si les majuscules sont importantes dans la réponse.
+Les paramétres de réponses:
+Dans le champ « Réponse n » saisissez le/les réponses acceptables et vous pouvez donner une partie des points à certaines réponses si la réponse est bonne, mais contient des erreurs d’orthographe, comme vous pouvez saisir un Feedback pour chaque réponse qui va s’afficher après l’envoi de la réponse.
+N’oubliez pas de cliquer sur le bouton “
+Enregistrer”
+au bas de l’écran
+C. IMPORTATION DES QUESTIONS DEPUIS UN FICHIER WORD
+Afin de faciliter les tests, au lieu d’insérer les questions manuellement et une à une, il est possible d’importer une liste de questions depuis un fichier Word en respectant un certain format dans les différentes catégories de la banque de questions.
+Les types de questions proposées sont énumérés ci-dessous :
+Question à choix unique (MC)
+Question à choix multiple (MA)
+Question à réponse courte (SA)
+Question Vrai/Faux (TF)
+Composition (ES)
+Il suffit de copier/coller vos questions et les réponses dans ce fichier Word. Pour télécharger ce fichier, cliquez sur
+Importation Test – Francais
+N.B:
+Il est recommandé que la langue de Moodle.USJ soit la même que le fichier téléchargé.
+Après le téléchargement, vous allez constater que chaque type de question est présenté dans un format de tableau. Donc si vous avez 10 questions de type Vrai/Faux, il faut copier/coller 10 fois la question TF. De même pour les autres types de questions
+Par exemple, la question Vrai/Faux (TF) est présentée de cette façon :
+Q1VF
+est nom descriptif de la question
+Beyrouth est la capitale du Liban
+est le texte de la question
+TF (True/False)
+est le type de la question
+Note par défaut
+est la note par défaut de la question
+100
+est la réponse correcte
+Remarque :
+C’est possible d’insérer un feedback pour chaque réponse ainsi qu’un feedback général
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activtie-test-parametrage-en-ligne-a-distance/
+Title: Moodle | activité ‘test’ | paramètrage du test en ligne | à distance
+
+
+
+English Content:
+When adding the quiz activity, the settings page will appear. The settings for a distance quiz are:
+C.1. GENERALS
+Name: type the test’s name
+Description: Write an introduction that will be visible when students click on the test. (Configuration not mandatory)
+C.2. TIMINIG
+Open and close time
+: set a open/close time so that students can only start their attempt after the open time, and they must complete their attempt before the close time
+Time limit:
+set a time limit that will be going on the initial quiz page and a countdown timer is displayed in the quiz navigation block for the students during their attempt.
+When time expires
+: this setting controls what happens if a student fails to submit their quiz attempt before the time expires. It is recommended to choose “Open attempts are submitted automatically”
+C.3. LAYOUT
+New page
+: It is recommended to limit the number of question per page to 1
+Navigation method
+: It is recommended to enable the sequential navigation in which students must progress through the quiz in order and may not return to previous pages nor skip ahead.
+C.4. QUESTION BEHAVIOUR
+This setting only applies to questions that have multiple parts, such as multiple choice or matching questions. Therefore the parts that make up these questions will be randomly shuffled each time a student attempts the quiz, provided the option is also enabled in the question settings (cf. C.6. SHUFFLE QUESTIONS).
+Remark:
+When creating these type of questions, make sure the option “Shuffle the choices?” is checked
+C.5. EXTRA RESTRICTIONS ON ATTEMPT
+Require password
+: It is recommended to set a password for the quiz so that students must enter it in order to attempt the quiz.
+Browser security :
+If
+“full screen pop-up with some JavaScript security ”
+» is selected, the quiz appears in a full screen popup window that covers all the other windows and has no navigation controls. Noting that, when using Chrome/Firefox, Print-screen and alt-tab are allowed while copy/paste and right-click are disabled and students can open internet and sotfwares on their workstations.
+If
+“require the use of Safe Exam Browser”
+is select,
+Teacher MUST set up a configuration file and send it to students
+Students MUST open this configuration file in order to launch the quiz
+Remarks:
+Students MUST have Safe Exam Browser installed at their computer
+Allowed browser key exam :
+Teachers must insert the browser key exam. This way students will only be able to access the quiz via this configuration file that is sent by the teacher. To access the tutorial on how to configure the Safe Exam Browser
+click here.
+Block concurrent connections
+: It is recommended to be selected, in this case student Std1 can continue the quiz attempt only in the same browser session. Which means, any attempts to open same quiz using another computer, device or browser will be blocked. Therefore, another student Std2 will not be able to consult Std1’s attempt even though Std2 managed to log in with the credential of Std1.
+In order to block concurrent sessions, you need to check « block concurrent connections » in the « Extra restrictions on attempts » category of your quiz on Moodle.USJ.
+For more information about bloc concurrent connections, click on the
+following link
+C.6. SHUFFLE QUESTIONS
+Once you create the quiz, by clicking on the bouton “save and display”, a new page will open in which you will create your questions, Check “Shuffle” in order to allow Moodle to shuffle the questions of every attempt taken.
+C.7. ACCESS RESTRICTIONS
+To limit the load related to the simultaneous connection of students, it is recommended to divide them into groups of maximum 100 students (in batches of teaching rooms for example) and ask them to start the test with a delay of 5 minutes per group. In the quiz parameters, use the restriction sets in the Restrict access of the quiz, as it is shown below.
+
+French Content:
+Lors de l’ajout de l’activité de test, la page des paramètres s’affiche. Les paramètres d’un test à distance sont :
+C.1. GÉNÉRALES
+Nom : tapez le nom du test
+Description : rédigez une introduction qui sera visible lorsque les étudiants cliqueront sur le test. (Configuration non obligatoire)
+C.2. TEMPS
+Heure d’ouverture et de fermeture :
+définissez une heure d’ouverture/fermeture afin que les étudiants ne puissent commencer leur tentative qu’après l’heure d’ouverture et qu’ils doivent terminer leur tentative avant l’heure de fermeture
+Temps limit:
+définissez une limite de temps qui s’affichera sur la page du test initial et un compte à rebours s’affichera dans le bloc de navigation du test pour les étudiants lors de leur tentative.
+Lorsque le temps est imparti:
+ce paramètre contrôle ce qui se passe si un étudiant ne soumet pas sa tentative de test avant l’expiration du délai. Il est recommandé de choisir “Les tentatives d’ouverture sont soumises automatiquement”
+C.3. MISE EN PAGE
+Nouvelle page :
+Il est recommandé de limiter le nombre de question par page à 1
+Méthode de navigation :
+Il est recommandé d’activer la navigation séquentielle dans laquelle les étudiants doivent progresser dans le test dans l’ordre et ne peuvent pas revenir aux pages précédentes ni sauter en avant.
+C.4. COMPORTEMENT DES QUESTIONS
+Ce paramètre s’applique uniquement aux questions comportant plusieurs parties, telles que les questions à choix multiples ou les questions correspondantes. Par conséquent, les parties qui composent ces questions seront mélangées aléatoirement à chaque fois qu’un étudiant tente de répondre au test, à condition que l’option soit également activée dans les paramètres des questions (cf. C.6. MÉLANGER LES QUESTIONS).
+Remarque:
+Lors de la création de ce type de questions, assurez-vous que l’option “Mélanger les choix ?” est vérifiée
+C.5. RESTRICTIONS SUPPLÉMENTAIRES SUR LES TENTATIVES
+Nécessite une clef :
+Il est recommandé de définir un mot de passe pour le test afin que les étudiants doivent le saisir pour tenter le test
+Sécurité du navigateur :
+Si
+“pop-up plein écran avec une certaine sécurité JavaScript ”
+» est sélectionné, le test apparaît dans une fenêtre pop-up plein écran qui couvre toutes les autres fenêtres et n’a pas de contrôles de navigation. Notant que, lors de l’utilisation de Chrome/Firefox, l’écran d’impression et la touche alt sont autorisés tandis que le copier/coller et le clic droit sont désactivés et que les étudiants peuvent ouvrir Internet et les logiciels sur leurs postes de travail.
+Si
+“exiger l’utilisation de Safe Exam Browser ”
+est sélectionné,
+L’enseignant DOIT configurer un fichier de configuration et l’envoyer aux étudiants
+Les étudiants DOIVENT ouvrir ce fichier de configuration afin de lancer le test
+Remarques:
+Les étudiants sont tenus d’installer Safe Exam Browser sur leur ordinateur
+Examen de clé de navigateur autorisé :
+les enseignants doivent insérer l’examen de clé de navigateur. De cette façon, les étudiants ne pourront accéder au test que via ce fichier de configuration envoyé par l’enseignant. Pour accéder au didacticiel sur la configuration du navigateur Safe Exam,
+cliquez ici.
+Bloquer les connexions simultanées :
+il est recommandé de sélectionner, dans ce cas, l’étudiant Std1 peut continuer la tentative de test uniquement dans la même session de navigateur. Cela signifie que toute tentative d’ouverture du même questionnaire à l’aide d’un autre ordinateur, appareil ou navigateur sera bloquée. Par conséquent, un autre étudiant Std2 ne pourra pas consulter la tentative de Std1 même si Std2 a réussi à se connecter avec les informations d’identification de Std1.
+Afin de bloquer les sessions concurrentes, vous devez cocher « bloquer les connexions concurrentes » dans la catégorie « Restrictions supplémentaires sur les tentatives » de votre test sur Moodle.USJ.
+Pour plus d’informations sur les connexions simultanées en bloc, cliquez sur le
+lien suivant
+C.6. MÉLANGER LES QUESTIONS
+Une fois que vous avez créé le test, en cliquant sur le bouton “enregistrer et afficher”, une nouvelle page s’ouvre dans laquelle vous créerez vos questions, Cochez “Mélangez” afin de permettre à Moodle de mélanger les questions de chaque tentative prise.
+C.7. RESTREINDRE L’ACCÈS
+Pour limiter la charge liée à la connexion simultanée des étudiants, il est recommandé de les répartir en groupes de 100 au maximum (par lots de salles pédagogiques par exemple) et de leur demander de démarrer le test avec un retard de 5 minutes par groupe. Dans les paramètres du test, utilisez les ensembles de restrictions dans Restreindre l’accès au test, comme indiqué ci-dessous.
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activtie-test-parametrage-en-ligne-en-presentiel/
+Title: Moodle | activité ‘test’ | paramètrage du test en ligne | en présentiel
+
+
+
+English Content:
+When you add the quiz activity, the settings page will be displayed containing
+Generals
+Name
+: insert the name of the quiz
+Description :
+Write an intro that will be visible when students click on the quiz.
+Display description on course page :
+Check this box if you want the description of your quiz to be visible on the course home page.
+Timing:
+: This is where you determine when students will have access to the quiz and when the quiz will be handed in for correction
+Open the quiz :
+This is where you specify when access to the quiz is allowed. Before the date indicated, the quiz will not be accessible to students.
+Close the quiz :
+The close date informs when the quiz will be closed for correction. If a student has not passed the time available to take the quiz, but the closing date and time is reached, the quiz will be closed automatically.
+Time limit:
+This is the time allotted to answer the quiz questions once opened.
+When time expires :
+by default, the current attempt is automatically sent for correction.
+Layout:
+New page :
+Select here the number of questions to display per page.
+Navigation method :
+By clicking on the “Show more” button, two navigation choices are possible:
+Free:
+: The student can move around the quiz as he wishes.
+Sequential:
+: The order of the questions is imposed on the student. He must answer each of them as they arise because he will not be able to come back to these questions to modify the answers.
+Question behaviour:
+Shuffle within questions :
+by default “yes” is selected. It applies to the choice of answers that will be in random order (eg multiple choice questions).
+How questions behave :
+by default this is the “Feedback a posteriori” option or the formative comments will be available to the student after the closing of his quiz and according to the re-reading options.
+Extra restrictions on attempts :
+In the additional restrictions you can specify a key or participants will have to enter the same key before they can attempt the quiz.
+Common module settings :
+In the current settings you can hide / show the quiz to students.
+
+French Content:
+Lorsque vous ajoutez l’activité test, la page des paramètres va s’afficher contenant
+Généraux
+Nom :
+Salissiez le nom du test
+Description :
+Rédigez une introduction qui sera visible lorsque les étudiants cliquent sur le test. (Paramétrage non obligatoire
+)
+Afficher la description sur la page d’accueil du cours :
+Cochez cette case si vous voulez que la description de votre test sera visible sur la page d’accueil du cours. (Paramétrage non obligatoire)
+Temps:
+C’est ici que vous déterminez quand les étudiants auront accès au test et quand le test sera remis pour correction
+Ouvrir ce test :
+C’est ici que vous précisez à partir de quel moment l’accès au test est permis. Avant la date indiquée, le test ne sera pas accessible aux étudiants.
+Fermer le test :
+La date de fermeture informe quand le test sera fermé pour correction. Si un étudiant n’a pas écoulé le temps disponible pour répondre au test, mais la date et l’heure de fermeture sont atteintes, le test sera fermé automatiquement.
+Temps disponible:
+C’est le temps alloué pour répondre aux questions du test une fois ouvert.
+Lorsque le temps impartit échoit :
+par défaut, la tentative en cours est envoyée automatiquement pour correction.
+Mise en page:
+Nouvelle page :
+Sélectionnez ici le nombre de questions à afficher par page
+Méthode de navigation :
+En cliquant sur le bouton « Afficher plus », deux choix de navigation sont possibles :
+Libre:
+L’étudiant peut se déplacer dans le test comme il le désire.
+Séquentielle:
+L’ordre des questions est imposé à l’étudiant. Il doit répondre à chacune d’elles au fur et à mesure qu’elles se présentent car il ne pourra pas revenir sur ces questions pour modifier les réponses.
+Comportement des questions:
+Mélanger les éléments des questions :
+par défaut « oui » est sélectionné. Il s’applique aux choix de réponses qui seront en ordre aléatoire (ex. questions à choix multiple).
+Comment se comportent les questions :
+par défaut c’est l’option « Feedback a posteriori » or les commentaires formatifs seront disponibles pour l’étudiant après la fermeture de son test et selon les options de relecture.
+Restrictions supplémentaires sur les tentatives:
+Dans les restrictions supplémentaires vous pouvez spécifiez une clef or les participants devront entrer la même clef avant de pouvoir faire une tentative au test.
+RÉGLAGES COURANTS:
+Dans les réglages courant, vous pouvez cacher/afficher le test aux étudiants.
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activtie-test-questions-manuelles/
+Title: Moodle | activité ‘test’ | ajout des questions | manuellement
+
+
+
+English Content:
+After having fed the question bank (see “feed your question bank” tutorial) and once the quiz has been created, you must add the questions that are in the question bank to the quiz.
+Click on the button
+“Edit quiz“
+Click on the
+“Add”
+button and then choose the option “
+from the question bank
+“
+A new window will appear :
+Choose the category of questions (in which you have
+fed your bank of questions
+),
+Select the questions by checking the boxes,
+Click on the button “Add selected questions to the quiz”
+
+French Content:
+Après avoir alimenté la banque de questions (voir tutoriel “alimentez votre banque de questions”) et une fois le test créé, il faut ajouter au test les questions qui se trouvent dans la banque de questions.
+Cliquez sur le bouton
+“Modifier le test“
+Cliquez sur le bouton
+“Ajouter”
+et puis choisissez l’option
+“de la banque de questions“
+Une nouvelle fenêtre va s’afficher :
+Choisissez la catégorie des questions (dans lequel vous avez
+alimenter votre banque de questions
+),
+Sélectionnez les questions en cochant les cases,
+Cliquez sur le bouton “Ajouter au test les questions sélectionnées“
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activtie-test-questions-aleatoires/
+Title: Moodle | activité ‘test’ | ajout des questions | aléatoirement
+
+
+
+English Content:
+In Moodle.USJ’s, a teacher, within a course, can generate multiple version of the same quiz in which every student will have a different version of the quiz.
+In order to do that, teachers must:
+Create a big organized Question Bank:
+It is essential to have a big Question Bank and all questions should be categorized by difficulty and type, for example:
+Algebra – Level 1, Algebra – Level 2, etc.
+Geometry – Level 1, Geometry – Level 2
+Etc.
+You can consult the following
+tutorial
+on how to manage your Question Bank
+Select from one or more categories several questions randomly:
+When editing the quiz, teacher must click on “Add” and choose “a random question” then in the new window teacher must select the category and the number of random questions.
+To summarize this section, below is a graph that shows the necessary steps.
+
+French Content:
+Dans Moodle.USJ, un enseignant, au sein d’un cours, peut générer plusieurs versions du même test dans lequel chaque étudiant aura une version différente du test.
+Pour ce faire, les enseignants doivent:
+Créer une grande banque de questions organisée :
+il est essentiel d’avoir une grande banque de questions et toutes les questions doivent être classées par difficulté et par type, par exemple :
+Algèbre – Niveau 1, Algèbre – Niveau 2, etc.
+Géométrie – Niveau 1, Géométrie – Niveau 2
+Etc.
+Vous pouvez consulter le
+tutoriel
+suivant sur la façon de gérer votre banque de questions
+Sélectionner parmi une ou plusieurs catégories plusieurs questions au hasard:
+Lors de l’édition du test, l’enseignant doit cliquer sur “Ajouter” et choisir “une question au hasard” puis dans la nouvelle fenêtre l’enseignant doit sélectionner la catégorie et le nombre de questions au hasard.
+Pour résumer cette section, voici un graphique qui montre les étapes nécessaires
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activtie-test-block-concurrent-connections/
+Title: Moodle | activité ‘test’ | Bloquer les connexions simultanées
+
+
+
+English Content:
+This tutorial is to help you block concurrent connections during a quiz in order to prevent any possible cheating scenario, such as: when std1 logs in using someone’s else credentials either to consult/modify the attempt of his/her friend.
+Set the quiz’s parameter
+In order to block concurrent sessions, you need to check « block concurrent connections » in the « Extra restrictions on attempts » category of your quiz on Moodle.USJ.
+In this case, student std1 can continue the quiz attempt only in the same browser session and on the same computer. Which means, any attempts to open same quiz using another computer, device or browser will be blocked. Therefore, if student std2 logged in with the credential of std1, std2 will be blocked from consulting std1’s attempt (see image below)
+Special cases to allow another session
+There are certain situations where student Std1 must launch a new session to continue the quiz. These situations are:
+If student Std1 closes the browser by mistake.
+If the computer got freeze or turned off.
+In both cases, only you alone have the permission to allow Std1 to lunch another session of the quiz, while the old session will be terminated. To do that, you must consult the attempts and choose to review the attempt of student std1.
+And then you have to click on “Allow student to continue this attempt using other device.
+
+French Content:
+Ce tutoriel a pour but de vous aider à bloquer les connexions simultanées lors d’un test afin d’éviter tout scénario de tricherie possible, tel que : lorsque std1 se connecte en utilisant les identifiants de quelqu’un d’autre soit pour consulter/modifier la tentative de son ami.
+Définissez les paramètres du test
+Afin de bloquer les sessions concurrentes, vous devez cocher « bloquer les connexions concurrentes » dans la catégorie « Restrictions supplémentaires sur les tentatives » de votre test sur Moodle.USJ.
+Dans ce cas, l’étudiant std1 peut poursuivre la tentative de test uniquement dans la même session de navigateur et sur le même ordinateur. Cela signifie que toute tentative d’ouverture du même questionnaire à l’aide d’un autre ordinateur, appareil ou navigateur sera bloquée. Par conséquent, si l’étudiant std2 s’est connecté avec les informations d’identification de std1, std2 ne pourra pas consulter la tentative de std1 (voir l’image ci-dessous)
+Cas particuliers pour permettre une autre séance
+Il existe certaines situations où l’étudiant Std1 doit lancer une nouvelle session pour continuer le test. Ces situations sont :
+Si l’étudiant Std1 ferme le navigateur par erreur..
+Si l’ordinateur s’est figé ou s’est éteint.
+Dans les deux cas, vous seul avez la permission d’autoriser Std1 à déjeuner une autre session du test, tandis que l’ancienne session sera terminée. Pour cela, vous devez consulter les tentatives et choisir de revoir la tentative de l’élève std1.
+Et puis vous devez cliquer sur “Autoriser l’étudiant à poursuivre cette tentative en utilisant un autre appareil”.
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activtie-test-derogations-utilisateurs/
+Title: Moodle | activité ‘test’ | dérogations utilisateurs
+
+
+
+English Content:
+This tutorial was created to help you to override certain quiz’s parameters during a test. For example, if you want to add more time during a quiz.
+Students might face some problems such as, the computer turned off, the internet was lost, the computer got frozen and student had to restart it. therefore, the student must contact the teacher, so that the teacher can better judge if there is a necessity to compensate the lost time.
+Suppose you have a quiz with the following settings:
+Number of attempts:
+1
+Open date :
+Monday, 8 June 2020, 9:00 AM
+Close Date
+: Monday, 8 June 2020, 10:00 AM
+Quiz Password :
+●●●●●
+Time Limit :
+30 minutes
+Navigation
+: free (not sequential; students to go back and forth)
+Layout:
+Every question is on 1 page.
+SCENARIO 1:
+if the teacher wants to give a students and additional time.
+Click on “
+user overrides
+” in the “quiz
+administration block
+”
+Click on the button “
+Add user override
+”
+Type the name of the student and select it (when you select the student it will be highlighted in blue)
+If the quiz closes before the time limit exceeds, change the “Close the quiz”. For example, if the student started the quiz at 9:30 (due to technical problems) and the initial time limit was 30 minutes and you want to give the student an additional 5 minutes in this case you need to change the “Close the quiz” field to 10:05.
+Change the time limit from 30 minutes to 35 minutes (if you want to add only 5 minutes)
+Click on the button “Save”
+Remark:
+: These additional 5 minutes will not be added immediately. Once the student passes from a page to another, these 5 minutes will be added to his attempt and will be shown in this window. Therefore, the student
+MUST MAKE an action to get these additional 5 minutes
+or Moodle will end his attempt when the initial time limit (30 minutes) is exceeded (cf. SCENARIO 2)
+The student can make the following actions on
+“previous page”, “next page” “finish attempt”
+If the student is on the first page of the quiz, he can click on “
+next page
+”
+If the student is on the last page of the quiz, he can click on “
+previous page
+”
+If the student is on the any other page of the quiz, he can click on either “
+previous page
+” or “
+next page
+”
+Remarks:
+If the quiz’s navigation was sequential (i.e. he can’t go back to previous pages), it is recommended that the student finish answering the question of the page he is in, before clicking on “
+Next page
+”
+Even though if students refresh their webpage (pressing “Ctrl+R”) they will get the extra 5 minutes, it is not recommended because there is a risk that their answers on the page, they are in will be lost.
+SCENARIO 2:
+if the teacher gave these extra 5 minutes, but the students couldn’t make an action to get these 5 minutes and Moodle closed the attempt.
+Click on “
+user overrides
+” in the “quiz
+administration block
+”
+Click on the button “
+Add user override
+”
+Type the name of the student and select it (when you select the student it will be highlighted in blue)
+If the quiz closes before the time limit exceeds, change the “Close the quiz”. For example, if the student started the quiz at 9:30 (due to technical problems) and the initial time limit was 30 minutes and you want to give the student an additional 5 minutes in this case you need to change the “Close the quiz” field to 10:05.
+Change “attempts allowed” to 2.
+Click on the button “Save”
+As a result,
+The student will launch a second attempt.
+The student has only 5 minutes.
+The student will start his attempt from the beginning.
+All student’s answers will be saved from his previous attempt. Besides, in case you randomly chose the questions, the same questions will appear and in the same order as well.
+
+French Content:
+Ce tutoriel a été créé pour vous aider à passer outre certains paramètres de test lors d’un test. Par exemple, si vous souhaitez ajouter plus de temps pendant un test.
+Les étudiants peuvent faire face à des problèmes tels que l’ordinateur éteint, l’Internet perdu, l’ordinateur s’est figé et l’étudiant a dû le redémarrer. Par conséquent, l’étudiant doit contacter l’enseignant, afin que ce dernier puisse mieux juger s’il est nécessaire de compenser le temps perdu.
+Supposons que vous prévoyez un test avec les paramètres suivants :
+Nombre de tentatives :
+1
+Ouvrir ce test :
+lundi 8 juin 2020 à 9h AM
+Fermer ce test :
+lundi 8 juin 2020 à 10h AM
+Nécessite une clef :
+●●●●●
+Temps limit :
+30 minutes
+Navigation :
+libre (non séquentielle ; les étudiants doivent faire des allers-retours)
+Mise en page :
+Chaque question est sur 1 page.
+SCÉNARIO 1:
+si l’enseignant souhaite accorder un temps supplémentaire aux étudiants.
+Cliquez sur
+“dérogations utilisateurs”
+dans le bloc
+“administration du test”
+Cliquez sur le bouton
+“Ajouter dérogation utilisateur”
+Tapez le nom de l’étudiant et sélectionnez-le (lorsque vous sélectionnez l’étudiant, il sera surligné en bleu)
+Si le test se ferme avant que la limite de temps ne soit dépassée, modifiez l’option “Fermer le test”. Par exemple, si l’étudiant a commencé le test à 9h30 (en raison de problèmes techniques) et que le délai initial était de 30 minutes et que vous souhaitez accorder à l’étudiant 5 minutes supplémentaires, dans ce cas, vous devez modifier le “Fermer le test” à 10h05.
+Modifiez le délai de 30 minutes à 35 minutes (si vous ne souhaitez ajouter que 5 minutes)
+Cliquez sur le bouton “Enregistrer”
+Remarque :
+Ces 5 minutes supplémentaires ne seront pas ajoutées immédiatement. Une fois que l’élève est passé d’une page à l’autre, ces 5 minutes s’ajouteront à sa tentative et seront affichées dans cette fenêtre. Par conséquent, l’étudiant
+DOIT EFFECTUER une action pour obtenir ces 5 minutes supplémentaires
+ou Moodle mettra fin à sa tentative lorsque le délai initial (30 minutes) sera dépassé
+(cf. SCÉNARIO 2)
+L’étudiant peut effectuer les actions suivantes sur
+“page précédente”, “page suivante” “terminer …”
+Si l’étudiant est sur la première page du test, il peut cliquer sur
+« page suivante »
+Si l’étudiant est sur la dernière page du test, il peut cliquer sur
+« page précédente »
+Si l’étudiant se trouve sur une autre page du test, il peut cliquer soit sur “
+page précédente
+” soit sur “
+page suivante
+“
+Remarques:
+Si la navigation du test était séquentielle (c’est-à-dire qu’il ne peut pas revenir aux pages précédentes), il est recommandé que l’étudiant termine de répondre à la question de la page dans laquelle il se trouve, avant de cliquer sur «
+Page suivante
+»
+Même si les étudiants actualisent leur page Web (en appuyant sur « Ctrl+R »), ils obtiendront les 5 minutes supplémentaires, cela n’est pas recommandé car il y a un risque que leurs réponses sur la page dans laquelle ils se trouvent soient perdues.
+SCÉNARIO 2:
+si l’enseignant a accordé les 5 minutes supplémentaires aux étudiants, mais que ces derniers ne pouvaient pas faire d’action pour obtenir ces 5 minutes et que Moodle a clôturé la tentative.
+Cliquez sur
+“dérogations utilisateurs”
+dans le bloc
+“administration du test”
+Cliquez sur le bouton
+“Ajouter dérogations utilisateurs”
+Tapez le nom de l’étudiant et sélectionnez-le (lorsque vous sélectionnez l’étudiant, il sera surligné en bleu)
+Si le test se ferme avant que la limite de temps ne soit dépassée, modifiez l’option “Fermer le test”. Par exemple, si l’étudiant a commencé le test à 9h30 (en raison de problèmes techniques) et que le délai initial était de 30 minutes et que vous souhaitez accorder à l’étudiant 5 minutes supplémentaires, dans ce cas, vous devez modifier le “Fermer le test” à 10h05.
+Remplacez “tentatives autorisées ” par 2.
+Cliquez sur le bouton “Enregistrer”
+Par conséquent,
+L’étudiant lancera une deuxième tentative.
+L’étudiant n’a que 5 minutes.
+L’étudiant recommencera sa tentative depuis le début.
+Toutes les réponses de l’étudiant seront enregistrées à partir de sa tentative précédente. De plus, si vous avez choisi les questions au hasard, les mêmes questions apparaîtront et dans le même ordre également.
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activtie-test-melanger-les-questions/
+Title: Moodle | activité ‘test’ | mélanger les questions d’une ou plusieurs sections
+
+
+
+English Content:
+It is possible to organize your quiz in a way that it will be divided into multiple sections. Each section will contain a set of questions that can be distributed on different number of pages. (See image below)
+Click on the this link to access the tutorial
+
+French Content:
+Il est possible d’organiser votre quiz de manière à ce qu’il soit divisé en plusieurs sections. Chaque section contiendra un ensemble de questions qui peuvent être distribuées sur différent pages. (Voir l’image ci-dessous)
+Cliquez sur ce lien pour accéder au tutoriel
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/activtie-test-coupure-de-connexion/
+Title: Moodle | activité ‘test’ | coupure de connexion
+
+
+
+English Content:
+This tutorial is dedicated to USJ educators to explain how student answers are saved during an on Moodle.USJ
+Note
+: Always use either Mozilla Firefox or Google Chrome.
+There are two ways to save student answers during an exam on Moodle.US
+I.
+The first way
+: Students save their answers when they click on “
+next page
+”, “
+previous page
+” and “
+End test
+” during a test on Moodle.USJ.
+The 1st page of the exam contains the “next page” button
+The pages between the first and the page before the last, contains two buttons “
+previous page
+” and “
+next page
+“
+The last page contains the two buttons “
+previous page
+” and “
+End Test…
+“
+Note
+: when the navigation is sequential, the student cannot go back (i.e. the “previous page” button is inactive).
+In the event of a connection failure, students will see a blank page (see images below). In this case, the student must wait for the connection to be restored.
+Once the connection is restored, the student must;
+Click “
+Ctrl
++ R
+” (or “
+Try again
+” only in Firefox)
+Click on
+“
+Resend
+” in Firefox to save these answers.
+«
+Continue
+» in Chrome to save these answers.
+Using Mozilla Firefox
+Using Google Chrome
+II.
+The second way
+: Moodle auto saves the answers every 10 minutes.
+If Moodle detects that the student’s Internet connection has dropped, and the Quiz autosave feature is enabled, a warning message is displayed in pink, prompting the student to make a note of recent responses (see image below).
+Once the connection is restored, there are two possibilities:
+Either the student clicks on “
+next page
+” to continue and the answers will be saved.
+Either Moodle auto-save the answers, in this case a notification will be displayed in green at the header of the student’s page indicating that the connection is restored (see image below).
+
+French Content:
+Cette documentation est adressée aux enseignants de l’USJ pour montrer comment les réponses des étudiants sont sauvegarder durant un test sur Moodle.USJ
+Remarque :
+il faut toujours utiliser soit Mozilla Firefox soit Google Chrome.
+Il existe deux façons pour sauvegarder les réponses des étudiants durant un test sur Moodle.US
+I.
+La première façon
+: Les étudiants sauvegardent leurs réponses lorsqu’ils cliquent sur «
+page suivante
+», «
+page précédente
+» et «
+Terminer le test
+» durant un test sur Moodle.USJ.
+La 1
+ère
+page de l’examen contient le bouton « page suivante »
+Les pages entre la première et la page avant la dernière, contient les deux boutons «
+page précédente
+» et «
+page suivante
+»
+La dernière page, contient les deux boutons «
+page précédente
+» et «
+Terminer le Test…
+»
+Remarque :
+lorsque la navigation est séquentielle, dans ce cas l’étudiant ne peut pas retourner (i.e. le bouton « page précédente » est inactif).
+Au cas d’une coupure de connexion et un étudiant clique sur un de ces 3 buttons, il va avoir une page blanche (cf. images ci-dessous). Dans ce cas, il faut que l’étudiant attende la rétablie de la connexion.
+Une fois la connexion rétablie, l’étudiant doit
+Cliquer «
+Ctrl + R
+» (ou bien «
+Try again
+» uniquement dans le cas de Firefox)
+Cliquer sur
+«
+Resend
+» dans le cas de Firefox pour sauvegarder ces réponses.
+«
+Continue
+» dans le cas de Chrome pour sauvegarder ces réponses.
+En utilisant Mozilla Firefox
+En utilisant Google Chrome
+II.
+La deuxième façon
+: Moodle.USJ auto-sauvegarde les réponses
+des étudiants chaque 10 minutes.
+Au cas d’une coupure de connexion et Moodle essaye de faire un auto-sauvegarde, une notification en rose va afficher à l’entête de la page de l’étudiant en indiquant que la connexion été perdue (Cf. voir image ci-dessous).
+Une fois la connexion rétablie, il existe deux possibilités :
+Soit que l’étudiant clique sur «
+page suivante
+» pour continuer et les réponses vont être sauvegarder.
+Soit que Moodle essaye d’auto-sauvegarde les réponses, dans ce cas une notification en vert va afficher à l’entête de la page de l’étudiant en indiquant que la connexion est rétablie (cf. voir image ci-dessous).
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/preferences-de-notifications/
+Title: Moodle | notifications | préférences de notifications
+
+
+
+English Content:
+The user must set their preferences to receive notifications
+To access your notification preferences, all you have to do is:
+Click on their username at the top of the page
+Click on “
+Preferences
+“
+Click on “
+Notification preferences
+“
+To deactivate any notification reception, simply check the box next to “
+Deactivate notifications
+“
+To deactivate the reception of notifications of a certain activity by e-mail, all you have to do is click on the “
+Acti
+” button in the two columns “Online” and “Offline”
+To activate the reception of notifications of a certain activity by e-mail, all you have to do is click on the “
+Désa
+” button in the two columns “Online” and “Offline”
+
+French Content:
+L’utilisateur doit paramétrer ses préférences pour recevoir les notifications
+Pour accéder à ses préférences de notification, il suffit de :
+Cliquer sur son nom d’utilisateur en haut de la page
+Cliquer sur “
+Préférences
+“
+Cliquer sur “
+Préférences de notification
+“
+Pour désactiver toute réception de notification, il suffit de cocher la case à côté de “
+Désactiver les notifications
+“
+Pour désactiver la réception des notifications d’une certain activité par courriel, il suffit de cliquer sur le bouton “
+Acti
+” des deux colonnes “En ligne” et “Hors ligne”
+Pour activer la réception des notifications d’une certain activité par courriel, il suffit de cliquer sur le bouton “
+Désa
+” des deux colonnes “En ligne” et “Hors ligne”
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/notifications-par-email/
+Title: Moodle | notifications | notifications par email
+
+
+
+English Content:
+Assignments – Submission
+After accessing the parameters of the “
+Assignment
+” activity, check “
+File Submission
+” in “
+Submission Types
+“
+Assignments – Grades & Feedbacks
+After accessing the parameters of the ”
+Assignment
+” activity, check ”
+Feedback files
+” in the”
+feedback types
+“
+Post Immediately
+To post a message without any delay, click on
+Advanced
+» and then check «
+send forum post notifications with no editing-time delay
+»
+
+French Content:
+Devoir – Soumission
+Après avoir accéder aux paramètres de l’activité «
+Devoir
+» il faut cochez «
+remises de fichiers
+» dans «
+Types de remise
+»
+Devoir – Notes et Remises de fichiers
+Après avoir accéder aux paramètres de l’activité «
+Devoir
+» il faut cochez «
+Fichiers de feedback
+» dans «
+Type de feedback
+»
+Poster sans délais
+Pour envoyer un post sans délais, cliquez sur «
+Avancé
+» et puis cochez «
+Envoyer les notifications de messages des forums sans délai de modification
+»
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/online-evaluation-checklist//
+Title: Moodle | Repère liste évaluation
+
+
+
+English Content:
+GETTING STARTED
+1. SETTING UP BANK OF QUESTIONS
+(How to)
+Have you created and labeled all the categories (and/or subcategories) of your question bank?
+Tip
+2. SETTING UP QUESTIONS
+(How to)
+Have you labeled all your questions?
+Tip
+Did you give a grade for every question?
+Did you choose to “Shuffle the choices” for every Multiple/Unique choice question?
+3. SETTING UP THE QUIZ WITHIN YOUR MOODLE’S COURSE
+↳ GENERAL
+(How to)
+↳ Time
+(How to)
+↳ NOTE
+↳ LAYOUT
+(How to)
+↳ QUESTION BEHAVIOUR
+(How to)
+↳ EXTRA RESTRICTIONS ON ATTEMPTS
+(How to)
+4. EDITING THE QUIZ
+(How to)
+Did you set the question’s behavior to “Shuffle”?
+Did you randomly choose the questions from your categories?
+5. GENERAL INSTRUCTIONS
+Did you hide the quiz so your students wouldn’t see it?
+Tip
+Did you preview your Quiz for typos or mistakes?
+Did you inform your students of the day of the quiz?
+Have you ensured that all your students are enrolled in your course on Moodle?
+Tip
+Did you make sure that either you or another content expert is available during the quiz?
+Did you make sure that you’ve the phone number of one of the Moodle team members?
+ON THE DAY OF THE QUIZ
+1. BEFORE THE START OF THE QUIZ
+Did you make sure that the Quiz is visible to your students by selecting the eye icon, right before the exam start time?
+Did you ask your students to use Mozilla Firefox or Google Chrome to access the Quiz on Moodle?
+2. DURING THE QUIZ
+Check if all students have launched their attempt.
+Adjust the time limit if a student needs more time.
+Tip
+
+French Content:
+LANCEMENT ET DÉMARRAGE
+1. ELABORATION DE LA BANQUE DE QUESTIONS
+(Comment)
+Avez-vous créé et étiqueté toutes les catégories (et/ou sous-catégories) de votre banque de questions ?
+Astuce
+2. ELABORATION DES QUESTIONS
+(Comment)
+Avez-vous étiqueté toutes vos questions ?
+Astuce
+Avez-vous attribué une note à chaque question ?
+Avez-vous choisi de « mélanger les choix » pour chaque question à choix multiple/unique ?
+3. ELABORATION DU TEST DANS VOTRE COURS SUR VOTRE ESPACE MOODLE
+↳ GÉNÉRALE
+(Comment)
+↳ TEMPS
+(Comment)
+↳ NOTE
+↳ MISE EN PAGE
+(Comment)
+↳ COMPORTEMENT DES QUESTIONS
+(Comment)
+↳ RESTRICTIONS SUPPLÉMENTAIRES SUR LES TENTATIVES
+(Comment)
+4. ÉDITION DU TEST
+(Comment)
+Avez-vous fixé le mélange des questions sur “Shuffle” ?
+Avez-vous choisi au hasard les questions des catégories ?
+5. INSTRUCTIONS GÉNÉRALES
+Avez-vous caché le test pour que vos étudiants ne le consultent pas ?
+Astuce
+Avez-vous prévisualisé votre test pour les fautes de frappe ou les erreurs ?
+Avez-vous informé vos étudiants du jour du test ?
+Vous êtes-vous assuré que tous vos étudiants sont inscrits à votre cours sur Moodle ?
+Astuce
+Vous êtes-vous assuré que vous ou un autre expert en contenu êtes disponible pendant le test ?
+Vous êtes-vous assuré d’avoir les coordonnées téléphoniques d’un des membres de l’équipe Moodle ?
+LE JOUR DU TEST
+1. AVANT D’ANNONCER LE DEBUT DU TEST
+Vous êtes-vous assuré que le Test est visible pour vos étudiants en sélectionnant l’icône en forme d’œil, juste avant l’heure de début de l’examen ?
+Avez-vous demandé à vos étudiants d’utiliser Mozilla Firefox ou Google Chrome pour accéder au Test sur Moodle ?
+2. PENDANT LE TEST
+Vérifiez si tous les étudiants ont lancé leurs tentatives
+Ajustez la limite de temps si un étudiant a besoin de plus de temps
+Astuce
+
+--------------------------------------------------------------------------------
+
+URL: https://unte.blogs.usj.edu.lb/faq/
+French Content:
+Comment récupérer les
+    identifiants de mon compte USJ
+    ?
+Pour réactiver ses identifiants USJ, il faut s’adresser au Service informatique à l’adresse
+helpdesk@usj.edu.lb
+(enseignant et étudiant)
+🔗 Partager cette question
+
+Pourquoi les étudiants
+    n’arrivent
+    pas à
+    accéder à mon espace sur Moodle.USJ ?
+Pour que les étudiants puissent accéder à votre UE sur Moodle.USJ, ils doivent être inscrits dans votre espace
+        soit à travers l’
+inscription massive
+ou en leur communiquant la
+clef d’inscription
+relative à votre espace.
+Vous pouvez aussi nous envoyer un mail à
+moodle.unte@usj.edu.lb
+indiquant le code ECTS de votre cours et la liste des étudiants à inscrire.
+🔗 Partager cette question
+
+Faut-il déposer les
+    vidéos sur
+    Moodle.USJ
+    directement ? (Non !)
+Les vidéos sont des fichiers trop lourds pour être déposés sur Moodle. Il faut d’abord les déposer sur un serveur
+        dédicacé aux vidéos comme notre Mediaiste.USJ ou sur un service de stockage dans le cloud comme One Drive. Toute
+        vidéo déposée sur le Mediasite sera accessible aux étudiants en mode de visionnement uniquement, alors que celle
+        déposée sur le One Drive peut être téléchargeable par les étudiants. Pour savoir plus sur consultez les
+        tutoriels
+téléchargement
+            sur Mediasite
+et
+téléchargement dans One Drive
+🔗 Partager cette question
+
+Comment créer une vidéo
+    à partir de
+    mon
+    Powerpoint ?
+Pour créer une vidéo à partir de votre Powerpoint, consultez notre
+guide
+.
+        Avant de se lancer dans l’enregistrement, nous vous invitons à
+consulter nos conseils pratiques pour scénariser votre vidéo
+Nous vous rappelons que l’enregistrement de vidéo avec Powerpoint ne fonctionne pas dans la version en ligne.
+        Pour les utilisateurs de MAC, nous vous suggérons l’utilisation de QuickTime Player (mettre le lien vers le
+        Quictime player)
+🔗 Partager cette question
+
+Comment inviter mes
+    étudiants à
+    rejoindre
+    mon Team avec un code ?
+Vous avez la possibilité d’inviter vos étudiants à rejoindre votre Team
+en leur donnant un Code d’accès
+qui va leur permettre de s’enregistrer
+        dans
+        votre Team.
+🔗 Partager cette question
+
+Comment envoyer de
+    l’application Team un message à tous les membres de l’équipe ?
+Pour attirer l’attention de toute votre équipe quand les membres ne sont pas connectés, tapez dans la barre de
+        messagerie @usjnet_noméquipe et envoyez votre message.
+Tous les membres de l’équipe recevront une notification dans leur boite à mail USJ sur laquelle ils peuvent
+        cliquer pour accéder directement à l’emplacement de la conversation où elle a été mentionnée.
+🔗 Partager cette question
+
+Comment contrôler les
+    autorisations
+    de
+    partage et d’enregistrement dans ma session en ligne via Team ?
+Quand vous lancez une session en ligne, tous les membre de l’équipe (enseignants et étudiants) sont des
+        présentateurs et ont un contrôle total sur la réunion. : ils peuvent partager un contenu, enregistrer la
+        réunion, désactiver le son de certaines personnes, et ont accès à toute autre fonctionnalité.
+Si vous souhaitez, en tant qu’organisateur de la session, disposer tout seul des autorisations de présentateur,
+        il faut alors rendre tous les participants à votre session en direct des spectateurs (Attendee) et cela en
+        cliquant à côté du nom de chaque participant et en choisissant l’option Make an attendee.
+🔗 Partager cette question
+
+Qui peut consulter
+    l’enregistrement
+    de ma
+    session sur Team ?
+Lorsque l’enregistrement est téléchargé sur Microsoft Stream, l’enregistreur est le propriétaire de la vidéo et
+        les membres de l’équipe qui ont été invités à la réunion sont les utilisateurs.
+Si l’enseignant n’a pas interdit la possibilité d’enregistrer aux membres de l’équipe, tout participant à la
+        session en ligne peut enregistrer et ainsi être le propriétaire de sa vidéo. Si l’enseignant souhaite garder
+        l’option d’enregistrement pour lui-même, il doit contrôler les autorisations des participants à sa session. Les
+        enregistrements apparaissent directement sur le fil de discussion une fois la session en ligne est terminée. Par
+        défaut, ces enregistrements sont privés, consultables uniquement par l’équipe (le propriétaire et les membres de
+        l’équipe).
+🔗 Partager cette question
+
+Comment faire une session
+    de plus que
+    40
+    min avec un abonnement de base de Zoom ?
+Etant un « utilisateur du forfait de base », la réunion est limitée à 40 minutes. En cours de session vous
+        recevrez une notification sur votre écran vous indiquant que votre réunion se terminera dans x quantité de
+        minutes (expiration). Il faut informer vos étudiants, après expiration de la session, de se reconnecter à Zoom
+        et rejoindre
+la nouvelle session que vous allez lancer
+en utilisant
+        votre ID personnel.
+🔗 Partager cette question
+
+Comment enregistrer ma
+    session sur
+    Zoom
+    ?
+L’enregistrement local permet aux utilisateurs d’enregistrer la vidéo et l’audio de la réunion localement sur un ordinateur. Les fichiers enregistrés peuvent ensuite être importés sur un site Web de stockage de fichier tel que One Drive ou sur le
+Mediasite de l’USJ
+pour les partager par la suite avec vos étudiants.
+Pour activer la fonctionnalité d’enregistrement local, il faut
+activer l’option
+Automatically record meeting on the local
+                computer
+dans les Personal Meeting ID PMI settings
+.
+🔗 Partager cette question
+
+Comment trouver mon
+    enregistrement sur
+    Zoom
+    ?
+Les réunions enregistrées localement sont uniquement accessibles sur l’ordinateur utilisé pour enregistrer la
+        réunion. L’affichage de vos enregistrements sur le client Zoom (l’application installée sur votre ordinateur)
+        fera apparaître tous les enregistrements locaux effectués par cet utilisateur sur cet ordinateur. Ceci
+        n’affichera pas les enregistrements locaux effectués sur un autre ordinateur même si le même compte Zoom a été
+        utilisé. Pour accéder à ces enregistrements, lancez l’application Zoom, cliquez sur l’onglet Meetings et
+        choisissez Recorded. Vous aurez la liste des enregistrements locaux.
+🔗 Partager cette question
+
+Comment planifier mes sessions en ligne pour le semestre ?
+Afin de planifier une session en ligne, il suffit de sélectionner le canal de votre Team tout simplement (vous
+        n’aurez pas besoin d’insérer les mails de vos étudiants pour les inviter à rejoindre la séance).
+Remarques:
+Vos étudiants recevront une notification par mail avec un lien direct à la session en ligne et la date de
+                la
+                séance s’affichera dans leur calendrier personnel.
+La date de la séance sera sauvegardée aussi dans votre application Outlook et dans celle de vos
+                étudiants.
+🔗 Partager cette question
+
+Pourquoi ne pas sélectionner un canal privé lors de la planification d’une session en ligne ?
+Jusqu’à cette date,
+la planification des sessions est uniquement possible pour les canaux standards et non pas
+            pour les canaux privés.
+Vous pouvez toujours démarrer une session en ligne dans un canal privé en cliquant sur
+        le « Démarrer une réunion »
+🔗 Partager cette question
+
+Comment organiser au mieux la réunion et quelles sont les options qui se présentent ?
+Les « options de la réunion » possibles sont les suivantes:
+Choisir qui peut éviter la salle d’attente
+Moi uniquement
+En tant qu’organisateur de la réunion, vous seul pouvez y avoir accès directement. Toutes les autres
+                personnes attendent dans la salle d’attente.
+Membres de mon organisation et invités
+Seules les personnes de votre organisation et les invités (y compris ceux qui ont des domaines de
+                messagerie différents du vôtre) peuvent directement prendre part à vos réunions.
+Tous
+Toute personne ayant accès au lien de la réunion rejoint directement la réunion, y compris les
+                personnes qui appellent.
+Choisir qui peut présenter
+Moi uniquement
+Seul l’organisateur est le présentateur. Tous les autres participants rejoindront la réunion en tant que
+                participants.
+Membres de mon organisation et invités
+Seules les personnes de votre organisation et les invités seront des présentateurs.
+Personnes spécifiques
+Seules les personnes que vous choisissez dans la liste des invités seront présentateurs. Tous les autres
+                participants la rejoindront en tant que participants.
+Tous
+Seules les personnes que vous choisissez dans la liste des invités seront présentateurs. Tous les autres
+                participants la rejoindront en tant que participants.
+Remarque: Les « options de la réunion » ne sont pas accessibles lors de la planification de la session. Elles
+        sont accessibles lorsque vous planifier la session uniquement. Donc après avoir planifié la session, il faut
+        cliquer sur « modifier » et puis « options de la réunion
+🔗 Partager cette question
+
+Comment télécharger la liste des participants après la fin de la session ?
+Oui, vous pouvez télécharger la liste des participants après la fin de la session
+Pour la télécharger, il faut selectioner
+Publications
+du canal Général (Posts of channel General) et puis cliquez sur
+“Cliquez ici pour télécharger le rapport”
+Remarques :
+Dans une session en ligne déjà planifiée, l’enseignant accède uniquement à la liste des participants.
+Dans Teams, la personne qui démarre une session en ligne va avoir le droit d’accéder à la liste des
+            participants et de la télécharger.
+            Si pour certaines sessions en ligne vous ne pouvez pas consulter la liste des participants, cela indique que
+            vous n’avez pas démarré la séance.
+🔗 Partager cette question
+
+Comment consulter les sessions enregistrées ?
+Il existe plusieurs façons pour consulter les sessions enregistrées:
+A partir de l’onglet «
+publications (Posts)
+» de votre canal de Teams.
+En cliquant sur «
+Ouvrir dans SharePoint
+» (afin de trouver les anciens enregistrements)
+🔗 Partager cette question
+
+
+
+--------------------------------------------------------------------------------
+
